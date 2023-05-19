@@ -1,0 +1,38 @@
+{
+  
+"data": 
+{
+    "title": "Stichting Witte Velden",
+    "type": "category",
+    "permalink" : "https://start.technative.eu/category/wittevelden/index.json",
+    "rel_permalink" : "/category/wittevelden/index.json",
+    "description" : "Stichting Witte Velden",
+    "search" : "stichting witte velden stichting witte velden",
+    "image" : "gebouw4.png",
+    "resources" : [
+    
+
+    
+      {
+      "title": "AWS Partner Central",
+      "resource_id": "62be-162e-92cd",
+      "description": "",
+      "search" : "aws partner central ",
+      "primary_action": "<no value>",
+      "image": "Screenshot from 2023-04-11 17-11-31.png",
+      "actions" : [
+      
+        {
+        "title": "open",
+        "url": "https://partnercentral.awspartner.com/APNLogin"
+        }
+      
+      ]
+      }
+    
+    ]
+}
+
+
+}
+
