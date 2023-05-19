@@ -29,6 +29,25 @@
       
       ]
       }
+    ,
+
+    
+      {
+      "title": "1Faith FM",
+      "resource_id": "2265-1076-9bf4",
+      "description": "1Faith FM radio",
+      "search" : "1faith fm 1faith fm radio",
+      "primary_action": "<no value>",
+      "image": "1faith.png",
+      "actions" : [
+      
+        {
+        "title": "play",
+        "url": "https://bigrradio.cdnstream1.com/5180_128"
+        }
+      
+      ]
+      }
     
     ]
 }

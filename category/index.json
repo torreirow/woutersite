@@ -4,63 +4,6 @@
     
       
 {
-    "title": "Administratie",
-    "type": "category",
-    "permalink" : "https://wouter.toorren.net/category/administratie/index.json",
-    "rel_permalink" : "/category/administratie/index.json",
-    "description" : "Uren, Loonstroken, enz.",
-    "search" : "administratie uren, loonstroken, enz.",
-    "image" : "Admin2.png",
-    "resources" : [
-    
-
-    
-      {
-      "title": "Exact Online",
-      "resource_id": "26db-0523-cfb1",
-      "description": "- Time tracking\n- Projects\n- Invoices",
-      "search" : "exact online - time tracking\n- projects\n- invoices",
-      "primary_action": "<no value>",
-      "image": "exact-logo-red.svg",
-      "actions" : [
-      
-        {
-        "title": "Open Exact Online",
-        "url": "https://start.exactonline.nl"
-        }
-      ,
-        {
-        "title": "Exact Handleiding",
-        "url": "/downloads/Handleiding Exact-1.pdf"
-        }
-      
-      ]
-      }
-    ,
-
-    
-      {
-      "title": "Tentoo",
-      "resource_id": "e997-1ec3-417f",
-      "description": "- verlof aanvragen\n- declaraties\n- loonstroken",
-      "search" : "tentoo - verlof aanvragen\n- declaraties\n- loonstroken",
-      "primary_action": "<no value>",
-      "image": "Screenshot from 2023-03-13 19-20-47.png",
-      "actions" : [
-      
-        {
-        "title": "Open Tentoo",
-        "url": "https://tentoo.nmbrs.nl"
-        }
-      
-      ]
-      }
-    
-    ]
-}
- ,
-      
-{
     "title": "All",
     "type": "category",
     "permalink" : "https://wouter.toorren.net/category/all/index.json",
@@ -194,8 +137,8 @@
       {
       "title": "Outlook Mail & Calendar",
       "resource_id": "e821-5548-571d",
-      "description": "",
-      "search" : "outlook mail & calendar ",
+      "description": "Outlook",
+      "search" : "outlook mail & calendar outlook",
       "primary_action": "<no value>",
       "image": "outlook.jpg",
       "actions" : [
@@ -307,6 +250,25 @@
       
       ]
       }
+    ,
+
+    
+      {
+      "title": "1Faith FM",
+      "resource_id": "2265-1076-9bf4",
+      "description": "1Faith FM radio",
+      "search" : "1faith fm 1faith fm radio",
+      "primary_action": "<no value>",
+      "image": "1faith.png",
+      "actions" : [
+      
+        {
+        "title": "play",
+        "url": "https://bigrradio.cdnstream1.com/5180_128"
+        }
+      
+      ]
+      }
     
     ]
 }
@@ -343,20 +305,22 @@
     
     ]
 }
-  ],
-"resources": {
-
-  
+ ,
+      
+{
+    "title": "TechNative",
+    "type": "category",
+    "permalink" : "https://wouter.toorren.net/category/technative/index.json",
+    "rel_permalink" : "/category/technative/index.json",
+    "description" : "Uren, Loonstroken, enz.",
+    "search" : "technative uren, loonstroken, enz.",
+    "image" : "Admin2.png",
+    "resources" : [
     
+
     
-
-
-
-
-
-"26db-0523-cfb1": {
-      "title": "Wouter ToolBox",
-      "xtitle": "Exact Online",
+      {
+      "title": "Exact Online",
       "resource_id": "26db-0523-cfb1",
       "description": "- Time tracking\n- Projects\n- Invoices",
       "search" : "exact online - time tracking\n- projects\n- invoices",
@@ -375,14 +339,12 @@
         }
       
       ]
-}
-,
+      }
+    ,
 
-
-
-"e997-1ec3-417f": {
-      "title": "Wouter ToolBox",
-      "xtitle": "Tentoo",
+    
+      {
+      "title": "Tentoo",
       "resource_id": "e997-1ec3-417f",
       "description": "- verlof aanvragen\n- declaraties\n- loonstroken",
       "search" : "tentoo - verlof aanvragen\n- declaraties\n- loonstroken",
@@ -396,13 +358,34 @@
         }
       
       ]
-}
-
-
-  
-
-  
+      }
     ,
+
+    
+      {
+      "title": "Outlook Mail & Calendar",
+      "resource_id": "e821-5548-571d",
+      "description": "Outlook",
+      "search" : "outlook mail & calendar outlook",
+      "primary_action": "<no value>",
+      "image": "outlook.jpg",
+      "actions" : [
+      
+        {
+        "title": "open",
+        "url": "https://outlook.office.com"
+        }
+      
+      ]
+      }
+    
+    ]
+}
+  ],
+"resources": {
+
+  
+    
     
 
 
@@ -544,8 +527,8 @@
       "title": "Wouter ToolBox",
       "xtitle": "Outlook Mail & Calendar",
       "resource_id": "e821-5548-571d",
-      "description": "",
-      "search" : "outlook mail & calendar ",
+      "description": "Outlook",
+      "search" : "outlook mail & calendar outlook",
       "primary_action": "<no value>",
       "image": "outlook.jpg",
       "actions" : [
@@ -659,6 +642,27 @@
       
       ]
 }
+,
+
+
+
+"2265-1076-9bf4": {
+      "title": "Wouter ToolBox",
+      "xtitle": "1Faith FM",
+      "resource_id": "2265-1076-9bf4",
+      "description": "1Faith FM radio",
+      "search" : "1faith fm 1faith fm radio",
+      "primary_action": "<no value>",
+      "image": "1faith.png",
+      "actions" : [
+      
+        {
+        "title": "play",
+        "url": "https://bigrradio.cdnstream1.com/5180_128"
+        }
+      
+      ]
+}
 
 
   
@@ -684,6 +688,82 @@
         {
         "title": "Open",
         "url": "https://www.stichtingwittevelden.nl"
+        }
+      
+      ]
+}
+
+
+  
+
+  
+    ,
+    
+
+
+
+
+
+"26db-0523-cfb1": {
+      "title": "Wouter ToolBox",
+      "xtitle": "Exact Online",
+      "resource_id": "26db-0523-cfb1",
+      "description": "- Time tracking\n- Projects\n- Invoices",
+      "search" : "exact online - time tracking\n- projects\n- invoices",
+      "primary_action": "<no value>",
+      "image": "exact-logo-red.svg",
+      "actions" : [
+      
+        {
+        "title": "Open Exact Online",
+        "url": "https://start.exactonline.nl"
+        }
+      ,
+        {
+        "title": "Exact Handleiding",
+        "url": "/downloads/Handleiding Exact-1.pdf"
+        }
+      
+      ]
+}
+,
+
+
+
+"e997-1ec3-417f": {
+      "title": "Wouter ToolBox",
+      "xtitle": "Tentoo",
+      "resource_id": "e997-1ec3-417f",
+      "description": "- verlof aanvragen\n- declaraties\n- loonstroken",
+      "search" : "tentoo - verlof aanvragen\n- declaraties\n- loonstroken",
+      "primary_action": "<no value>",
+      "image": "Screenshot from 2023-03-13 19-20-47.png",
+      "actions" : [
+      
+        {
+        "title": "Open Tentoo",
+        "url": "https://tentoo.nmbrs.nl"
+        }
+      
+      ]
+}
+,
+
+
+
+"e821-5548-571d": {
+      "title": "Wouter ToolBox",
+      "xtitle": "Outlook Mail & Calendar",
+      "resource_id": "e821-5548-571d",
+      "description": "Outlook",
+      "search" : "outlook mail & calendar outlook",
+      "primary_action": "<no value>",
+      "image": "outlook.jpg",
+      "actions" : [
+      
+        {
+        "title": "open",
+        "url": "https://outlook.office.com"
         }
       
       ]

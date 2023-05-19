@@ -4,6 +4,20 @@
     
       
 {
+    "title": "1Faith FM",
+    "type": "resources",
+    "permalink" : "https://wouter.toorren.net/resources/1faith_fm/index.json",
+    "rel_permalink" : "/resources/1faith_fm/index.json",
+    "description" : "1Faith FM radio",
+    "search" : "1faith fm 1faith fm radio",
+    "image" : "1faith.png",
+    "resources" : [
+    
+    ]
+}
+ ,
+      
+{
     "title": "AWS Partner Central",
     "type": "resources",
     "permalink" : "https://wouter.toorren.net/resources/aws_partner_central/index.json",
@@ -78,8 +92,8 @@
     "type": "resources",
     "permalink" : "https://wouter.toorren.net/resources/outlook/index.json",
     "rel_permalink" : "/resources/outlook/index.json",
-    "description" : "",
-    "search" : "outlook mail & calendar ",
+    "description" : "Outlook",
+    "search" : "outlook mail & calendar outlook",
     "image" : "outlook.jpg",
     "resources" : [
     
@@ -171,6 +185,8 @@
 }
   ],
 "resources": {
+
+  
 
   
 

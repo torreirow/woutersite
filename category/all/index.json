@@ -135,8 +135,8 @@
       {
       "title": "Outlook Mail & Calendar",
       "resource_id": "e821-5548-571d",
-      "description": "",
-      "search" : "outlook mail & calendar ",
+      "description": "Outlook",
+      "search" : "outlook mail & calendar outlook",
       "primary_action": "<no value>",
       "image": "outlook.jpg",
       "actions" : [
