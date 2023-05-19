@@ -32,12 +32,12 @@
  ,
       
 {
-    "title": "github TechNative-B-V",
+    "title": "github Wouter",
     "type": "resources",
     "permalink" : "https://wouter.toorren.net/resources/github_technative_b_v/index.json",
     "rel_permalink" : "/resources/github_technative_b_v/index.json",
-    "description" : "",
-    "search" : "github technative-b-v ",
+    "description" : "Github Wouter Organisation",
+    "search" : "github wouter github wouter organisation",
     "image" : "github.jpg",
     "resources" : [
     
@@ -81,6 +81,20 @@
     "description" : "",
     "search" : "outlook mail & calendar ",
     "image" : "outlook.jpg",
+    "resources" : [
+    
+    ]
+}
+ ,
+      
+{
+    "title": "SevenFM",
+    "type": "resources",
+    "permalink" : "https://wouter.toorren.net/resources/sevenfm/index.json",
+    "rel_permalink" : "/resources/sevenfm/index.json",
+    "description" : "SevenFM audio",
+    "search" : "sevenfm sevenfm audio",
+    "image" : "sevenfmlogo.jpg",
     "resources" : [
     
     ]
@@ -141,8 +155,26 @@
     
     ]
 }
+ ,
+      
+{
+    "title": "website_stichtingwittevelden",
+    "type": "resources",
+    "permalink" : "https://wouter.toorren.net/resources/website_stichtingwittevelden/index.json",
+    "rel_permalink" : "/resources/website_stichtingwittevelden/index.json",
+    "description" : "Website StWV",
+    "search" : "website_stichtingwittevelden website stwv",
+    "image" : "entering_mission_field.png",
+    "resources" : [
+    
+    ]
+}
   ],
 "resources": {
+
+  
+
+  
 
   
 

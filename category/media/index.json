@@ -1,0 +1,38 @@
+{
+  
+"data": 
+{
+    "title": "Media",
+    "type": "category",
+    "permalink" : "https://wouter.toorren.net/category/media/index.json",
+    "rel_permalink" : "/category/media/index.json",
+    "description" : "allerlei media links...",
+    "search" : "media allerlei media links...",
+    "image" : "Marketing4.png",
+    "resources" : [
+    
+
+    
+      {
+      "title": "SevenFM",
+      "resource_id": "18e7-3428-3478",
+      "description": "SevenFM audio",
+      "search" : "sevenfm sevenfm audio",
+      "primary_action": "<no value>",
+      "image": "sevenfmlogo.jpg",
+      "actions" : [
+      
+        {
+        "title": "play",
+        "url": "https://23623.live.streamtheworld.com/SEVENFMAAC.aac"
+        }
+      
+      ]
+      }
+    
+    ]
+}
+
+
+}
+

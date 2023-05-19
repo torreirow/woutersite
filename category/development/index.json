@@ -4,7 +4,7 @@
 {
     "title": "Development",
     "type": "category",
-    "permalink" : "https://wouter.toorren.net/category/development/index.json",
+    "permalink" : "https://start.technative.eu/category/development/index.json",
     "rel_permalink" : "/category/development/index.json",
     "description" : "github, documentatie etc..",
     "search" : "development github, documentatie etc..",
@@ -43,7 +43,7 @@
       
         {
         "title": "open handbook",
-        "url": "https://.technative.eu/"
+        "url": "https://docs-mcs.technative.eu/"
         }
       ,
         {

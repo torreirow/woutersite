@@ -154,7 +154,7 @@
 
     
       {
-      "title": "Wouter in the media",
+      "title": "TechNative in the media",
       "resource_id": "e881-8af0-8ec7",
       "description": "Op deze pagina op onze website laten we zien in welke we genoemd worden (wetenschappelijke artikelen, televisie-uitzendingen, krantenartikel etc). \n\nHeb je een tip? Mail Bas (link hieronder)",
       "search" : "technative in the media op deze pagina op onze website laten we zien in welke we genoemd worden (wetenschappelijke artikelen, televisie-uitzendingen, krantenartikel etc). \n\nheb je een tip? mail bas (link hieronder)",
@@ -163,8 +163,8 @@
       "actions" : [
       
         {
-        "title": "Tip Wouter",
-        "url": "mailto: wouter@toorren.net"
+        "title": "Tip Bas",
+        "url": "mailto: bas@technative.eu"
         }
       
       ]
@@ -221,7 +221,7 @@
       
         {
         "title": "open handbook",
-        "url": "https://.technative.eu/"
+        "url": "https://docs-mcs.technative.eu/"
         }
       ,
         {
@@ -235,17 +235,22 @@
 
     
       {
-      "title": "github TechNative-B-V",
+      "title": "github Wouter",
       "resource_id": "58d8-53f4-6f28",
-      "description": "",
-      "search" : "github technative-b-v ",
+      "description": "Github Wouter Organisation",
+      "search" : "github wouter github wouter organisation",
       "primary_action": "<no value>",
       "image": "github.jpg",
       "actions" : [
       
         {
         "title": "open",
-        "url": "https://github.com/TechNative-B-V"
+        "url": "https://github.com/wvandertoorren"
+        }
+      ,
+        {
+        "title": "list",
+        "url": "http://www.github.com"
         }
       
       ]
@@ -275,72 +280,29 @@
  ,
       
 {
-    "title": "Development",
+    "title": "Media",
     "type": "category",
-    "permalink" : "https://wouter.toorren.net/category/development/index.json",
-    "rel_permalink" : "/category/development/index.json",
-    "description" : "github, documentatie etc..",
-    "search" : "development github, documentatie etc..",
-    "image" : "Vormgeving.png",
+    "permalink" : "https://wouter.toorren.net/category/media/index.json",
+    "rel_permalink" : "/category/media/index.json",
+    "description" : "allerlei media links...",
+    "search" : "media allerlei media links...",
+    "image" : "Marketing4.png",
     "resources" : [
     
 
     
       {
-      "title": "github TechNative-B-V",
-      "resource_id": "58d8-53f4-6f28",
-      "description": "",
-      "search" : "github technative-b-v ",
+      "title": "SevenFM",
+      "resource_id": "18e7-3428-3478",
+      "description": "SevenFM audio",
+      "search" : "sevenfm sevenfm audio",
       "primary_action": "<no value>",
-      "image": "github.jpg",
+      "image": "sevenfmlogo.jpg",
       "actions" : [
       
         {
-        "title": "open",
-        "url": "https://github.com/TechNative-B-V"
-        }
-      
-      ]
-      }
-    ,
-
-    
-      {
-      "title": "Managed Services Handbook",
-      "resource_id": "06b0-48c0-1825",
-      "description": "",
-      "search" : "managed services handbook ",
-      "primary_action": "<no value>",
-      "image": "markdown-syntax-language.png",
-      "actions" : [
-      
-        {
-        "title": "open handbook",
-        "url": "https://.technative.eu/"
-        }
-      ,
-        {
-        "title": "handbook@github",
-        "url": "https://github.com/TechNative-B-V/technative-docs-managed-services-handbook"
-        }
-      
-      ]
-      }
-    ,
-
-    
-      {
-      "title": "Jira",
-      "resource_id": "b685-3858-5990",
-      "description": "Projects with tickets",
-      "search" : "jira projects with tickets",
-      "primary_action": "<no value>",
-      "image": "JIRA-Logo.jpg",
-      "actions" : [
-      
-        {
-        "title": "open",
-        "url": "https://technative.atlassian.net/jira/"
+        "title": "play",
+        "url": "https://23623.live.streamtheworld.com/SEVENFMAAC.aac"
         }
       
       ]
@@ -363,17 +325,17 @@
 
     
       {
-      "title": "AWS Partner Central",
-      "resource_id": "62be-162e-92cd",
-      "description": "",
-      "search" : "aws partner central ",
+      "title": "website_stichtingwittevelden",
+      "resource_id": "332d-9099-c378",
+      "description": "Website StWV",
+      "search" : "website_stichtingwittevelden website stwv",
       "primary_action": "<no value>",
-      "image": "Screenshot from 2023-04-11 17-11-31.png",
+      "image": "entering_mission_field.png",
       "actions" : [
       
         {
-        "title": "open",
-        "url": "https://partnercentral.awspartner.com/APNLogin"
+        "title": "Open",
+        "url": "https://www.stichtingwittevelden.nl"
         }
       
       ]
@@ -393,7 +355,7 @@
 
 
 "26db-0523-cfb1": {
-      "title": "Toolbox",
+      "title": "Wouter ToolBox",
       "xtitle": "Exact Online",
       "resource_id": "26db-0523-cfb1",
       "description": "- Time tracking\n- Projects\n- Invoices",
@@ -419,7 +381,7 @@
 
 
 "e997-1ec3-417f": {
-      "title": "Toolbox",
+      "title": "Wouter ToolBox",
       "xtitle": "Tentoo",
       "resource_id": "e997-1ec3-417f",
       "description": "- verlof aanvragen\n- declaraties\n- loonstroken",
@@ -448,7 +410,7 @@
 
 
 "26db-0523-cfb1": {
-      "title": "Toolbox",
+      "title": "Wouter ToolBox",
       "xtitle": "Exact Online",
       "resource_id": "26db-0523-cfb1",
       "description": "- Time tracking\n- Projects\n- Invoices",
@@ -474,7 +436,7 @@
 
 
 "b685-3858-5990": {
-      "title": "Toolbox",
+      "title": "Wouter ToolBox",
       "xtitle": "Jira",
       "resource_id": "b685-3858-5990",
       "description": "Projects with tickets",
@@ -495,7 +457,7 @@
 
 
 "e997-1ec3-417f": {
-      "title": "Toolbox",
+      "title": "Wouter ToolBox",
       "xtitle": "Tentoo",
       "resource_id": "e997-1ec3-417f",
       "description": "- verlof aanvragen\n- declaraties\n- loonstroken",
@@ -516,7 +478,7 @@
 
 
 "02c9-7d2a-025b": {
-      "title": "Toolbox",
+      "title": "Wouter ToolBox",
       "xtitle": "TechNative's LinkedIn",
       "resource_id": "02c9-7d2a-025b",
       "description": "",
@@ -537,7 +499,7 @@
 
 
 "e881-8af0-8ec7": {
-      "title": "Toolbox",
+      "title": "Wouter ToolBox",
       "xtitle": "TechNative in the media",
       "resource_id": "e881-8af0-8ec7",
       "description": "Op deze pagina op onze website laten we zien in welke we genoemd worden (wetenschappelijke artikelen, televisie-uitzendingen, krantenartikel etc). \n\nHeb je een tip? Mail Bas (link hieronder)",
@@ -558,7 +520,7 @@
 
 
 "8dc6-f452-0588": {
-      "title": "Toolbox",
+      "title": "Wouter ToolBox",
       "xtitle": "TechNative on Twitter",
       "resource_id": "8dc6-f452-0588",
       "description": "",
@@ -579,7 +541,7 @@
 
 
 "e821-5548-571d": {
-      "title": "Toolbox",
+      "title": "Wouter ToolBox",
       "xtitle": "Outlook Mail & Calendar",
       "resource_id": "e821-5548-571d",
       "description": "",
@@ -600,7 +562,7 @@
 
 
 "06b0-48c0-1825": {
-      "title": "Toolbox",
+      "title": "Wouter ToolBox",
       "xtitle": "Managed Services Handbook",
       "resource_id": "06b0-48c0-1825",
       "description": "",
@@ -611,7 +573,7 @@
       
         {
         "title": "open handbook",
-        "url": "https://.technative.eu/"
+        "url": "https://docs-mcs.technative.eu/"
         }
       ,
         {
@@ -626,18 +588,23 @@
 
 
 "58d8-53f4-6f28": {
-      "title": "Toolbox",
-      "xtitle": "github TechNative-B-V",
+      "title": "Wouter ToolBox",
+      "xtitle": "github Wouter",
       "resource_id": "58d8-53f4-6f28",
-      "description": "",
-      "search" : "github technative-b-v ",
+      "description": "Github Wouter Organisation",
+      "search" : "github wouter github wouter organisation",
       "primary_action": "<no value>",
       "image": "github.jpg",
       "actions" : [
       
         {
         "title": "open",
-        "url": "https://github.com/TechNative-B-V"
+        "url": "https://github.com/wvandertoorren"
+        }
+      ,
+        {
+        "title": "list",
+        "url": "http://www.github.com"
         }
       
       ]
@@ -647,7 +614,7 @@
 
 
 "62be-162e-92cd": {
-      "title": "Toolbox",
+      "title": "Wouter ToolBox",
       "xtitle": "AWS Partner Central",
       "resource_id": "62be-162e-92cd",
       "description": "",
@@ -675,66 +642,19 @@
 
 
 
-"58d8-53f4-6f28": {
-      "title": "Toolbox",
-      "xtitle": "github TechNative-B-V",
-      "resource_id": "58d8-53f4-6f28",
-      "description": "",
-      "search" : "github technative-b-v ",
+"18e7-3428-3478": {
+      "title": "Wouter ToolBox",
+      "xtitle": "SevenFM",
+      "resource_id": "18e7-3428-3478",
+      "description": "SevenFM audio",
+      "search" : "sevenfm sevenfm audio",
       "primary_action": "<no value>",
-      "image": "github.jpg",
+      "image": "sevenfmlogo.jpg",
       "actions" : [
       
         {
-        "title": "open",
-        "url": "https://github.com/TechNative-B-V"
-        }
-      
-      ]
-}
-,
-
-
-
-"06b0-48c0-1825": {
-      "title": "Toolbox",
-      "xtitle": "Managed Services Handbook",
-      "resource_id": "06b0-48c0-1825",
-      "description": "",
-      "search" : "managed services handbook ",
-      "primary_action": "<no value>",
-      "image": "markdown-syntax-language.png",
-      "actions" : [
-      
-        {
-        "title": "open handbook",
-        "url": "https://.technative.eu/"
-        }
-      ,
-        {
-        "title": "handbook@github",
-        "url": "https://github.com/TechNative-B-V/technative-docs-managed-services-handbook"
-        }
-      
-      ]
-}
-,
-
-
-
-"b685-3858-5990": {
-      "title": "Toolbox",
-      "xtitle": "Jira",
-      "resource_id": "b685-3858-5990",
-      "description": "Projects with tickets",
-      "search" : "jira projects with tickets",
-      "primary_action": "<no value>",
-      "image": "JIRA-Logo.jpg",
-      "actions" : [
-      
-        {
-        "title": "open",
-        "url": "https://technative.atlassian.net/jira/"
+        "title": "play",
+        "url": "https://23623.live.streamtheworld.com/SEVENFMAAC.aac"
         }
       
       ]
@@ -751,19 +671,19 @@
 
 
 
-"62be-162e-92cd": {
-      "title": "Toolbox",
-      "xtitle": "AWS Partner Central",
-      "resource_id": "62be-162e-92cd",
-      "description": "",
-      "search" : "aws partner central ",
+"332d-9099-c378": {
+      "title": "Wouter ToolBox",
+      "xtitle": "website_stichtingwittevelden",
+      "resource_id": "332d-9099-c378",
+      "description": "Website StWV",
+      "search" : "website_stichtingwittevelden website stwv",
       "primary_action": "<no value>",
-      "image": "Screenshot from 2023-04-11 17-11-31.png",
+      "image": "entering_mission_field.png",
       "actions" : [
       
         {
-        "title": "open",
-        "url": "https://partnercentral.awspartner.com/APNLogin"
+        "title": "Open",
+        "url": "https://www.stichtingwittevelden.nl"
         }
       
       ]

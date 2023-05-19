@@ -14,17 +14,17 @@
 
     
       {
-      "title": "AWS Partner Central",
-      "resource_id": "62be-162e-92cd",
-      "description": "",
-      "search" : "aws partner central ",
+      "title": "website_stichtingwittevelden",
+      "resource_id": "332d-9099-c378",
+      "description": "Website StWV",
+      "search" : "website_stichtingwittevelden website stwv",
       "primary_action": "<no value>",
-      "image": "Screenshot from 2023-04-11 17-11-31.png",
+      "image": "entering_mission_field.png",
       "actions" : [
       
         {
-        "title": "open",
-        "url": "https://partnercentral.awspartner.com/APNLogin"
+        "title": "Open",
+        "url": "https://www.stichtingwittevelden.nl"
         }
       
       ]

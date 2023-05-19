@@ -162,7 +162,7 @@
       
         {
         "title": "open handbook",
-        "url": "https://.technative.eu/"
+        "url": "https://docs-mcs.technative.eu/"
         }
       ,
         {
@@ -176,17 +176,22 @@
 
     
       {
-      "title": "github TechNative-B-V",
+      "title": "github Wouter",
       "resource_id": "58d8-53f4-6f28",
-      "description": "",
-      "search" : "github technative-b-v ",
+      "description": "Github Wouter Organisation",
+      "search" : "github wouter github wouter organisation",
       "primary_action": "<no value>",
       "image": "github.jpg",
       "actions" : [
       
         {
         "title": "open",
-        "url": "https://github.com/TechNative-B-V"
+        "url": "https://github.com/wvandertoorren"
+        }
+      ,
+        {
+        "title": "list",
+        "url": "http://www.github.com"
         }
       
       ]
