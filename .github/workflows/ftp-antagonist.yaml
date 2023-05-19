@@ -12,5 +12,5 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
         server: ftp.toorren.net
-        username: ${{ secrets.ANTAGONISTUSER}}
+        username: ${{ secrets.ANTAGONISTUSERNAME}}
         password: ${{ secrets.ANTAGONISTPASSWORD }}
