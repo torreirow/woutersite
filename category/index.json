@@ -6,7 +6,7 @@
 {
     "title": "Administratie",
     "type": "category",
-    "permalink" : "https://start.technative.eu/category/administratie/index.json",
+    "permalink" : "https://wouter.toorren.net/category/administratie/index.json",
     "rel_permalink" : "/category/administratie/index.json",
     "description" : "Uren, Loonstroken, enz.",
     "search" : "administratie uren, loonstroken, enz.",
@@ -63,7 +63,7 @@
 {
     "title": "All",
     "type": "category",
-    "permalink" : "https://start.technative.eu/category/all/index.json",
+    "permalink" : "https://wouter.toorren.net/category/all/index.json",
     "rel_permalink" : "/category/all/index.json",
     "description" : "All resources, this is a dev. category",
     "search" : "all all resources, this is a dev. category",
@@ -154,7 +154,7 @@
 
     
       {
-      "title": "TechNative in the media",
+      "title": "Wouter in the media",
       "resource_id": "e881-8af0-8ec7",
       "description": "Op deze pagina op onze website laten we zien in welke we genoemd worden (wetenschappelijke artikelen, televisie-uitzendingen, krantenartikel etc). \n\nHeb je een tip? Mail Bas (link hieronder)",
       "search" : "technative in the media op deze pagina op onze website laten we zien in welke we genoemd worden (wetenschappelijke artikelen, televisie-uitzendingen, krantenartikel etc). \n\nheb je een tip? mail bas (link hieronder)",
@@ -163,8 +163,8 @@
       "actions" : [
       
         {
-        "title": "Tip Bas",
-        "url": "mailto: bas@technative.eu"
+        "title": "Tip Wouter",
+        "url": "mailto: wouter@toorren.net"
         }
       
       ]
@@ -221,7 +221,7 @@
       
         {
         "title": "open handbook",
-        "url": "https://docs-mcs.technative.eu/"
+        "url": "https://.technative.eu/"
         }
       ,
         {
@@ -277,7 +277,7 @@
 {
     "title": "Development",
     "type": "category",
-    "permalink" : "https://start.technative.eu/category/development/index.json",
+    "permalink" : "https://wouter.toorren.net/category/development/index.json",
     "rel_permalink" : "/category/development/index.json",
     "description" : "github, documentatie etc..",
     "search" : "development github, documentatie etc..",
@@ -316,7 +316,7 @@
       
         {
         "title": "open handbook",
-        "url": "https://docs-mcs.technative.eu/"
+        "url": "https://.technative.eu/"
         }
       ,
         {
@@ -353,7 +353,7 @@
 {
     "title": "Stichting Witte Velden",
     "type": "category",
-    "permalink" : "https://start.technative.eu/category/wittevelden/index.json",
+    "permalink" : "https://wouter.toorren.net/category/wittevelden/index.json",
     "rel_permalink" : "/category/wittevelden/index.json",
     "description" : "Stichting Witte Velden",
     "search" : "stichting witte velden stichting witte velden",
@@ -611,7 +611,7 @@
       
         {
         "title": "open handbook",
-        "url": "https://docs-mcs.technative.eu/"
+        "url": "https://.technative.eu/"
         }
       ,
         {
@@ -708,7 +708,7 @@
       
         {
         "title": "open handbook",
-        "url": "https://docs-mcs.technative.eu/"
+        "url": "https://.technative.eu/"
         }
       ,
         {

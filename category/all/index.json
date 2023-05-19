@@ -4,7 +4,7 @@
 {
     "title": "All",
     "type": "category",
-    "permalink" : "https://start.technative.eu/category/all/index.json",
+    "permalink" : "https://wouter.toorren.net/category/all/index.json",
     "rel_permalink" : "/category/all/index.json",
     "description" : "All resources, this is a dev. category",
     "search" : "all all resources, this is a dev. category",
@@ -162,7 +162,7 @@
       
         {
         "title": "open handbook",
-        "url": "https://docs-mcs.technative.eu/"
+        "url": "https://.technative.eu/"
         }
       ,
         {
