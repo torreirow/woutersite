@@ -18,13 +18,13 @@
  ,
       
 {
-    "title": "AWS Partner Central",
+    "title": "AWS Console",
     "type": "resources",
-    "permalink" : "https://wouter.toorren.net/resources/aws_partner_central/index.json",
-    "rel_permalink" : "/resources/aws_partner_central/index.json",
-    "description" : "",
-    "search" : "aws partner central ",
-    "image" : "Screenshot from 2023-04-11 17-11-31.png",
+    "permalink" : "https://wouter.toorren.net/resources/aws_console_eu_central_1/index.json",
+    "rel_permalink" : "/resources/aws_console_eu_central_1/index.json",
+    "description" : "AWS Console",
+    "search" : "aws console aws console",
+    "image" : "aws-ec24.png",
     "resources" : [
     
     ]
@@ -52,6 +52,20 @@
     "rel_permalink" : "/resources/github_technative_b_v/index.json",
     "description" : "Github Wouter Organisation",
     "search" : "github wouter github wouter organisation",
+    "image" : "github.jpg",
+    "resources" : [
+    
+    ]
+}
+ ,
+      
+{
+    "title": "Github Wouter",
+    "type": "resources",
+    "permalink" : "https://wouter.toorren.net/resources/github_wouter/index.json",
+    "rel_permalink" : "/resources/github_wouter/index.json",
+    "description" : "Github Wouter van der Toorren",
+    "search" : "github wouter github wouter van der toorren",
     "image" : "github.jpg",
     "resources" : [
     
@@ -109,20 +123,6 @@
     "description" : "SevenFM audio",
     "search" : "sevenfm sevenfm audio",
     "image" : "sevenfmlogo.jpg",
-    "resources" : [
-    
-    ]
-}
- ,
-      
-{
-    "title": "TechNative in the media",
-    "type": "resources",
-    "permalink" : "https://wouter.toorren.net/resources/technative_in_the_media/index.json",
-    "rel_permalink" : "/resources/technative_in_the_media/index.json",
-    "description" : "Op deze pagina op onze website laten we zien in welke we genoemd worden (wetenschappelijke artikelen, televisie-uitzendingen, krantenartikel etc). \n\nHeb je een tip? Mail Bas (link hieronder)",
-    "search" : "technative in the media op deze pagina op onze website laten we zien in welke we genoemd worden (wetenschappelijke artikelen, televisie-uitzendingen, krantenartikel etc). \n\nheb je een tip? mail bas (link hieronder)",
-    "image" : "052.jpg",
     "resources" : [
     
     ]

@@ -95,18 +95,13 @@
 
     
       {
-      "title": "TechNative in the media",
-      "resource_id": "e881-8af0-8ec7",
-      "description": "Op deze pagina op onze website laten we zien in welke we genoemd worden (wetenschappelijke artikelen, televisie-uitzendingen, krantenartikel etc). \n\nHeb je een tip? Mail Bas (link hieronder)",
-      "search" : "technative in the media op deze pagina op onze website laten we zien in welke we genoemd worden (wetenschappelijke artikelen, televisie-uitzendingen, krantenartikel etc). \n\nheb je een tip? mail bas (link hieronder)",
+      "title": "",
+      "resource_id": "<no value>",
+      "description": "",
+      "search" : " ",
       "primary_action": "<no value>",
-      "image": "052.jpg",
+      "image": "<no value>",
       "actions" : [
-      
-        {
-        "title": "Tip Bas",
-        "url": "mailto: bas@technative.eu"
-        }
       
       ]
       }
@@ -200,17 +195,107 @@
 
     
       {
-      "title": "AWS Partner Central",
-      "resource_id": "62be-162e-92cd",
+      "title": "",
+      "resource_id": "<no value>",
       "description": "",
-      "search" : "aws partner central ",
+      "search" : " ",
       "primary_action": "<no value>",
-      "image": "Screenshot from 2023-04-11 17-11-31.png",
+      "image": "<no value>",
+      "actions" : [
+      
+      ]
+      }
+    ,
+
+    
+      {
+      "title": "SevenFM",
+      "resource_id": "18e7-3428-3478",
+      "description": "SevenFM audio",
+      "search" : "sevenfm sevenfm audio",
+      "primary_action": "<no value>",
+      "image": "sevenfmlogo.jpg",
+      "actions" : [
+      
+        {
+        "title": "play",
+        "url": "https://23623.live.streamtheworld.com/SEVENFMAAC.aac"
+        }
+      
+      ]
+      }
+    ,
+
+    
+      {
+      "title": "1Faith FM",
+      "resource_id": "2265-1076-9bf4",
+      "description": "1Faith FM radio",
+      "search" : "1faith fm 1faith fm radio",
+      "primary_action": "<no value>",
+      "image": "1faith.png",
+      "actions" : [
+      
+        {
+        "title": "play",
+        "url": "https://bigrradio.cdnstream1.com/5180_128"
+        }
+      
+      ]
+      }
+    ,
+
+    
+      {
+      "title": "website_stichtingwittevelden",
+      "resource_id": "332d-9099-c378",
+      "description": "Website StWV",
+      "search" : "website_stichtingwittevelden website stwv",
+      "primary_action": "<no value>",
+      "image": "entering_mission_field.png",
+      "actions" : [
+      
+        {
+        "title": "Open",
+        "url": "https://www.stichtingwittevelden.nl"
+        }
+      
+      ]
+      }
+    ,
+
+    
+      {
+      "title": "AWS Console",
+      "resource_id": "251b-3b7d-740a",
+      "description": "AWS Console",
+      "search" : "aws console aws console",
+      "primary_action": "<no value>",
+      "image": "aws-ec24.png",
       "actions" : [
       
         {
         "title": "open",
-        "url": "https://partnercentral.awspartner.com/APNLogin"
+        "url": "https://eu-central-1.console.aws.amazon.com/console/home?region=eu-central-1#"
+        }
+      
+      ]
+      }
+    ,
+
+    
+      {
+      "title": "Github Wouter",
+      "resource_id": "d547-2c99-7f76",
+      "description": "Github Wouter van der Toorren",
+      "search" : "github wouter github wouter van der toorren",
+      "primary_action": "<no value>",
+      "image": "github.jpg",
+      "actions" : [
+      
+        {
+        "title": "Open",
+        "url": "https://github.com/wvandertoorren"
         }
       
       ]

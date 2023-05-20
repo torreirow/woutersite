@@ -72,6 +72,25 @@
       
       ]
       }
+    ,
+
+    
+      {
+      "title": "AWS Console",
+      "resource_id": "251b-3b7d-740a",
+      "description": "AWS Console",
+      "search" : "aws console aws console",
+      "primary_action": "<no value>",
+      "image": "aws-ec24.png",
+      "actions" : [
+      
+        {
+        "title": "open",
+        "url": "https://eu-central-1.console.aws.amazon.com/console/home?region=eu-central-1#"
+        }
+      
+      ]
+      }
     
     ]
 }
