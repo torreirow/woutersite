@@ -2,13 +2,13 @@
   
 "data": 
 {
-    "title": "UCB ONE",
+    "title": "UCB 1",
     "type": "resources",
     "permalink" : "https://wouter.toorren.net/resources/ucb_one/index.json",
     "rel_permalink" : "/resources/ucb_one/index.json",
-    "description" : "UCB one. automobile-redis-sessions-cluster-0002-001",
-    "search" : "ucb one ucb one. automobile-redis-sessions-cluster-0002-001",
-    "image" : "ucb1-logo-podcasts.jpg",
+    "description" : "UCB 1 - UK",
+    "search" : "ucb 1 ucb 1 - uk",
+    "image" : "ucb1new.png",
     "resources" : [
     
     ]
