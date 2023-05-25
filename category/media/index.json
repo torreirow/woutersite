@@ -76,12 +76,12 @@
       "description": "RFM Radio Portugal",
       "search" : "rfm portugal rfm radio portugal",
       "primary_action": "<no value>",
-      "image": "rfm_portugal.png",
+      "image": "rfmnew.png",
       "actions" : [
       
         {
         "title": "Open",
-        "url": "https://20863.live.streamtheworld.com"
+        "url": "https://25453.live.streamtheworld.com/RFM.mp3"
         }
       
       ]
