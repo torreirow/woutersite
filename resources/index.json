@@ -32,6 +32,20 @@
  ,
       
 {
+    "title": "AWS SAA",
+    "type": "resources",
+    "permalink" : "https://wouter.toorren.net/resources/aws_saa/index.json",
+    "rel_permalink" : "/resources/aws_saa/index.json",
+    "description" : "AWS Solutions Architect Associate",
+    "search" : "aws saa aws solutions architect associate",
+    "image" : "aws-ec24.png",
+    "resources" : [
+    
+    ]
+}
+ ,
+      
+{
     "title": "Exact Online",
     "type": "resources",
     "permalink" : "https://wouter.toorren.net/resources/exact_online/index.json",
@@ -241,6 +255,8 @@
 }
   ],
 "resources": {
+
+  
 
   
 

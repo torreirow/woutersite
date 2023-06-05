@@ -308,6 +308,44 @@
  ,
       
 {
+    "title": "AWS SAA",
+    "type": "category",
+    "permalink" : "https://wouter.toorren.net/category/aws_saa/index.json",
+    "rel_permalink" : "/category/aws_saa/index.json",
+    "description" : "",
+    "search" : "aws saa ",
+    "image" : "IOC4.png",
+    "resources" : [
+    
+
+    
+      {
+      "title": "AWS SAA",
+      "resource_id": "8fba-1724-d3dd",
+      "description": "AWS Solutions Architect Associate",
+      "search" : "aws saa aws solutions architect associate",
+      "primary_action": "<no value>",
+      "image": "aws-ec24.png",
+      "actions" : [
+      
+        {
+        "title": "SAA start page",
+        "url": "https://pages.awscloud.com/NAMER-partner-OE-AWS-Certification-Readiness-SAA-2023-confirmation.html"
+        }
+      ,
+        {
+        "title": "Twitch",
+        "url": "https://www.twitch.tv/aws_namer_programs"
+        }
+      
+      ]
+      }
+    
+    ]
+}
+ ,
+      
+{
     "title": "IT Bookmarks",
     "type": "category",
     "permalink" : "https://wouter.toorren.net/category/it_links/index.json",
@@ -367,8 +405,8 @@
 {
     "title": "Media",
     "type": "category",
-    "permalink" : "https://wouter.toorren.net/category/media/index.json",
-    "rel_permalink" : "/category/media/index.json",
+    "permalink" : "https://wouter.toorren.net/category/webradio/index.json",
+    "rel_permalink" : "/category/webradio/index.json",
     "description" : "allerlei media links...",
     "search" : "media allerlei media links...",
     "image" : "Marketing4.png",
@@ -941,6 +979,40 @@
         {
         "title": "Open",
         "url": "https://github.com/wvandertoorren"
+        }
+      
+      ]
+}
+
+
+  
+
+  
+    ,
+    
+
+
+
+
+
+"8fba-1724-d3dd": {
+      "title": "Wouter ToolBox",
+      "xtitle": "AWS SAA",
+      "resource_id": "8fba-1724-d3dd",
+      "description": "AWS Solutions Architect Associate",
+      "search" : "aws saa aws solutions architect associate",
+      "primary_action": "<no value>",
+      "image": "aws-ec24.png",
+      "actions" : [
+      
+        {
+        "title": "SAA start page",
+        "url": "https://pages.awscloud.com/NAMER-partner-OE-AWS-Certification-Readiness-SAA-2023-confirmation.html"
+        }
+      ,
+        {
+        "title": "Twitch",
+        "url": "https://www.twitch.tv/aws_namer_programs"
         }
       
       ]
