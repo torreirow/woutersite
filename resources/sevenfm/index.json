@@ -1,0 +1,19 @@
+{
+  
+"data": 
+{
+    "title": "SevenFM",
+    "type": "resources",
+    "permalink" : "https://wouter.toorren.net/resources/sevenfm/index.json",
+    "rel_permalink" : "/resources/sevenfm/index.json",
+    "description" : "SevenFM audio",
+    "search" : "sevenfm sevenfm audio",
+    "image" : "sevenfmlogo.jpg",
+    "resources" : [
+    
+    ]
+}
+
+
+}
+

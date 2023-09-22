@@ -1,0 +1,19 @@
+{
+  
+"data": 
+{
+    "title": "Jira",
+    "type": "resources",
+    "permalink" : "https://wouter.toorren.net/resources/jira/index.json",
+    "rel_permalink" : "/resources/jira/index.json",
+    "description" : "Projects with tickets",
+    "search" : "jira projects with tickets",
+    "image" : "JIRA-Logo.jpg",
+    "resources" : [
+    
+    ]
+}
+
+
+}
+
