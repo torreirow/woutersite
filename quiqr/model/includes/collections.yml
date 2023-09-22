@@ -1,0 +1,93 @@
+---
+- key: resources
+  itemtitle: Resources
+  dataformat: yaml
+  extension: md
+  folder: content/resources/
+  title: Resources
+  fields:
+    - arrayTitle: true
+      key: title
+      title: Title
+      type: string
+
+    - key: description
+      title: Description
+      type: string
+      multiLine: true
+
+    - key: keywords
+      title: Keywords
+      type: chips
+
+    - key: info
+      type: info
+      content: enter a keyword and hit enter
+      size: small
+
+    - key: image
+      buttonTitle: select image
+      path: /static/images/resources
+      title: Image
+      type: image-select
+
+    - key: resource_id
+      type: uniq
+
+    - key: actions
+      title: Actions
+      type: accordion
+      fields:
+
+      - key: info
+        type: info
+        content: Only the first 3 items are used. 1st action is primary
+        size: small
+
+      - arrayTitle: true
+        key: title
+        title: Title
+        type: string
+
+      - key: url
+        title: url
+        type: string
+
+
+- key: categories
+  itemtitle: Category
+  dataformat: yaml
+  extension: md
+  folder: content/category/
+  title: Categories
+  fields:
+  - key: title
+    title: Title
+    type: string
+  - key: description
+    title: Description
+    type: string
+    multiLine: true
+
+  - key: image
+    buttonTitle: select image
+    path: /static/images/categories
+    title: Image
+    type: image-select
+
+  - key: resource_links
+    title: Resources
+    type: accordion
+    fields:
+
+    - key: resource_id
+      type: uniq
+
+    - key: resource_ref
+      arrayTitle: true
+      title: Resource
+      type: select-from-query
+      query_glob: content/resources/*/index.md
+      query_string: "#parent_dir[]"
+
+

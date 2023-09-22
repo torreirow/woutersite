@@ -1,0 +1,13 @@
+{{ define "response" }}
+"data": [
+    {{ range $index, $e := .Data.Pages }}{{ if $index }},{{ end }}
+      {{ partial "item.json.json"  (dict "context" . "contextSite" $.Site ) }} {{ end }} ],
+"resources": {
+{{ range $index, $e := .Data.Pages }}
+  {{ if and (isset .Params "resource_links") (gt (len .Params.resource_links) 0) }}
+    {{ if $index }},{{ end }}
+    {{ partial "resources.json.json" (dict "context" . "contextSite" $.Site ) }}
+  {{ end }}
+{{ end }}
+}{{ end }}
+

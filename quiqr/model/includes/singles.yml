@@ -1,0 +1,142 @@
+---
+- key: images
+  description: global images
+  title: Images Global
+  hidePreviewIcon: true
+  hideExternalEditIcon: true
+  hideSaveButton: true
+  _mergePartial: https://raw.githubusercontent.com/quiqr/model-partials/main/singles/global-images.yml
+
+- key: downloadFiles
+  title: Downloads
+  hidePreviewIcon: true
+  hideExternalEditIcon: true
+  hideSaveButton: true
+  file: static/.pogo-downloads.md
+  fields:
+    - key: download
+      type: bundle-manager
+      addButtonLocationTop: true
+      path: "/static/downloads"
+      extensions:
+        - svg
+        - png
+        - jpg
+        - gif
+        - zip
+        - docx
+        - pptx
+        - xlsx
+        - pdf
+      fields:
+        - key: thumb
+          title: Thumb
+          type: bundle-image-thumbnail
+
+
+- key: imagesCategories
+  title: Images Categories
+  hidePreviewIcon: true
+  hideExternalEditIcon: true
+  hideSaveButton: true
+  file: static/.pogo-images-cats.md
+  fields:
+    - key: image
+      type: bundle-manager
+      path: "/static/images/categories"
+      addButtonLocationTop: true
+      extensions:
+        - svg
+        - png
+        - jpg
+        - gif
+      fields:
+        - key: thumb
+          title: Thumb
+          type: bundle-image-thumbnail
+
+- key: imagesResources
+  title: Images Resources
+  hidePreviewIcon: true
+  hideExternalEditIcon: true
+  hideSaveButton: true
+  file: static/.pogo-images-resources.md
+  fields:
+    - key: image
+      type: bundle-manager
+      addButtonLocationTop: true
+      path: "/static/images/resources"
+      extensions:
+        - svg
+        - png
+        - jpg
+        - gif
+      fields:
+        - key: thumb
+          title: Thumb
+          type: bundle-image-thumbnail
+
+- key: mainConfig
+  title: Site Configuration
+  file: config.yaml
+  fields:
+    - key: title
+      title: Site Title
+      type: string
+      tip: Your page title.
+    - key: baseUrl
+      title: Base URL
+      type: string
+      tip: Your site URL.
+
+    - key: params
+      group: params
+      type: pull
+      fields:
+
+        - key: logo
+          buttonTitle: select image
+          path: /static/images
+          title: Logo
+          type: image-select
+
+        - key: logo_width
+          type: number
+
+        - key: home_bg_image
+          buttonTitle: select image
+          path: /static/images
+          title: Home Background Image
+          type: image-select
+
+        - key: rewriteRules
+          title: Rewrite Rules
+          type: accordion
+          fields:
+            - arrayTitle: true
+              key: title
+              title: Title
+              type: string
+
+            - key: regex
+              title: Regex
+              type: string
+
+            - key: replace
+              type: string
+
+            - key: agent_condition
+              type: string
+
+
+
+
+    - key: "favicon"
+      title: "Favicon Image"
+      type: "bundle-manager"
+      tip: "upload the image to be used as favicon"
+      path: "/static/"
+      forceFileName: "favicon.png"
+      extensions: ["png"]
+
+
