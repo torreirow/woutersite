@@ -1,0 +1,10 @@
+search:
+  other: Search
+home:
+  other: Home
+all_cats:
+  other: All Categories
+found_cats:
+  other: Found categories with {{.searchString}}
+found_items:
+  other: Found items with {{.searchString}}
