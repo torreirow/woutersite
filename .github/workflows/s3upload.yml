@@ -31,6 +31,8 @@ jobs:
       - name: Copy Built Site
         run: |
           cp -r $HOME/public/* . # Kopieer de gebouwde site naar de andere repository
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
           git add .
           git commit -m "Deploy Hugo Build Output"
           git push
