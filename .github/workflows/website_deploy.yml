@@ -1,0 +1,36 @@
+name: Upload Website
+
+on:
+  push:
+    branches:
+    - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+
+      - uses: actions/checkout@master
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.108.0'
+          extended: true
+
+      - name: Build
+        run: hugo --minify --baseURL https://start.technative.eu/
+
+          - name: Deploy to Other Repository
+      uses: actions/checkout@v2
+      with:
+        repository: gebruikersnaam/andere-repo  # Vervang dit door de naam van de andere repository
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions"
+        git add .
+        git commit -m "Deploy Hugo Build Output"
+        git push
