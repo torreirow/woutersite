@@ -1,0 +1,3 @@
+{{ define "response" }}
+"data": {{ partial "item.json.json" (dict "context" . "contextSite" $.Site ) }}
+{{ end }}

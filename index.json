@@ -1,0 +1,3321 @@
+{
+  
+"data": [
+    
+      {
+    "title": "Administratie",
+    "type": "category",
+    "permalink" : "http://localhost:13131/category/administratie/index.json",
+    "rel_permalink" : "/category/administratie/index.json",
+    "description" : "",
+    "search" : "administratie ",
+    "image" : "Admin.png",
+    "resources" : [
+    
+      {
+      "title": "Contactpersonen administratie",
+      "resource_id": "e997-1ec3-417f",
+      "description": "Voor salarissen en pensioenen: Henk van Dintel\nVoor declaraties: Sandra van Breda\nVoor projectadministratie: Robert Jagers en Marc vd Aa.",
+      "search" : "contactpersonen administratie voor salarissen en pensioenen: henk van dintel\nvoor declaraties: sandra van breda\nvoor projectadministratie: robert jagers en marc vd aa.",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+      ]
+      }
+    ,
+      {
+      "title": "Salaris",
+      "resource_id": "abab-703d-156b",
+      "description": "In de app Nmbrs vind je onderaan, onder het kopje 'Mijn loonstroken', per periode je loonstrook. De app is op je computer en op je telefoon te benaderen. \nContactpersoon: Henk van Dintel",
+      "search" : "salaris in de app nmbrs vind je onderaan, onder het kopje 'mijn loonstroken', per periode je loonstrook. de app is op je computer en op je telefoon te benaderen. \ncontactpersoon: henk van dintel",
+      "primary_action": "<no value>",
+      "image": "nmbrs.png",
+      "actions" : [
+      
+        {
+        "title": "Open Nmbrs",
+        "url": "https://fiscountloonservice.nmbrs.nl/applications/Common/Login.aspx?ReturnUrl=%2f"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Bestellen/kopen",
+      "resource_id": "ed54-ea84-0d48",
+      "description": "Protocol hoe je een bestelling (direct) kunt laten betalen of (later) kunt declareren.\n\n(Directe betalingen IT en materiaalzaken door Hans de Jong)",
+      "search" : "bestellen/kopen protocol hoe je een bestelling (direct) kunt laten betalen of (later) kunt declareren.\n\n(directe betalingen it en materiaalzaken door hans de jong)",
+      "primary_action": "<no value>",
+      "image": "under constr3.jpeg",
+      "actions" : [
+      
+        {
+        "title": "Protocol declareren",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Instructies_veldformulieren_handleidingen/Salaris_Declaraties/Toolbox_protocol declareren.pdf"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Inkoopfacturen",
+      "resource_id": "a0f1-ee2e-f523",
+      "description": "Inkoopfacturen worden ingevoerd in de online tool Elvy waar medewerkers (en evt de projectleider of teamleider) ze kunnen goed- of afkeuren. \nContactpersoon: Sandra van Breda",
+      "search" : "inkoopfacturen inkoopfacturen worden ingevoerd in de online tool elvy waar medewerkers (en evt de projectleider of teamleider) ze kunnen goed- of afkeuren. \ncontactpersoon: sandra van breda",
+      "primary_action": "<no value>",
+      "image": "Elvy.png",
+      "actions" : [
+      
+        {
+        "title": "Open Elvy",
+        "url": "http://192.168.200.61/ElvyWeb/SignOn.aspx?ReturnUrl=%2fElvyWeb%2fDefault.aspx"
+        }
+      ,
+        {
+        "title": "Filmpje",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Instructies_veldformulieren_handleidingen/Elvy/Elvyweb_alle_medewerkers/Toolbox_Facturen_goedafkeuren_in_Elvyweb.mp4"
+        }
+      ,
+        {
+        "title": "Instructie",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Instructies_veldformulieren_handleidingen/Elvy/Elvyweb_alle_medewerkers/Toolbox_Elvyweb_inloginstructies.pdf"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Onkosten declareren",
+      "resource_id": "3018-48c3-034c",
+      "description": "Declaraties dien je in via Nmbrs. \nContactpersoon: Sandra van Breda",
+      "search" : "onkosten declareren declaraties dien je in via nmbrs. \ncontactpersoon: sandra van breda",
+      "primary_action": "<no value>",
+      "image": "nmbrs.png",
+      "actions" : [
+      
+        {
+        "title": "Open Nmbrs",
+        "url": "https://fiscountloonservice.nmbrs.nl/applications/Common/Login.aspx?ReturnUrl=%2f"
+        }
+      ,
+        {
+        "title": "Handleiding",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Instructies_veldformulieren_handleidingen/Salaris_Declaraties/Toolbox_filmpje_declareren-in-NMBRS.mp4"
+        }
+      ,
+        {
+        "title": "Formulieren",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Instructies_veldformulieren_handleidingen/Salaris_Declaraties"
+        }
+      
+      ]
+      }
+    
+    ]
+}
+ ,
+      {
+    "title": "Arbo en veiligheid",
+    "type": "category",
+    "permalink" : "http://localhost:13131/category/arbo_en_veiligheid/index.json",
+    "rel_permalink" : "/category/arbo_en_veiligheid/index.json",
+    "description" : "",
+    "search" : "arbo en veiligheid ",
+    "image" : "arbo3.png",
+    "resources" : [
+    
+      {
+      "title": "RIE",
+      "resource_id": "0b0b-02ff-5ffe",
+      "description": "",
+      "search" : "rie ",
+      "primary_action": "<no value>",
+      "image": "arbo3.png",
+      "actions" : [
+      
+      ]
+      }
+    ,
+      {
+      "title": "Handboek VCA**",
+      "resource_id": "8057-a399-4f3d",
+      "description": "",
+      "search" : "handboek vca** ",
+      "primary_action": "<no value>",
+      "image": "arbo3.png",
+      "actions" : [
+      
+        {
+        "title": "Open",
+        "url": ""
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Melden veiligheidsissue",
+      "resource_id": "a8ef-4068-5115",
+      "description": "",
+      "search" : "melden veiligheidsissue ",
+      "primary_action": "<no value>",
+      "image": "arbo3.png",
+      "actions" : [
+      
+        {
+        "title": "E-mail",
+        "url": "mailto:kam@waardenburg.eco"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Bedrijfskleding",
+      "resource_id": "4bc3-f269-29f6",
+      "description": "Zie bijgaande document met het kledingoverzicht, de afspraken en de mogelijkheden om te bestellen.",
+      "search" : "bedrijfskleding zie bijgaande document met het kledingoverzicht, de afspraken en de mogelijkheden om te bestellen.",
+      "primary_action": "<no value>",
+      "image": "arbo3.png",
+      "actions" : [
+      
+        {
+        "title": "Open",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Instructies_veldformulieren_handleidingen/Bedrijfskleding/Toolbox_Kledingoverzicht2023.pdf"
+        }
+      
+      ]
+      }
+    
+    ]
+}
+ ,
+      {
+    "title": "BHV",
+    "type": "category",
+    "permalink" : "http://localhost:13131/category/bhv/index.json",
+    "rel_permalink" : "/category/bhv/index.json",
+    "description" : "Bedrijfshulpverlening",
+    "search" : "bhv bedrijfshulpverlening",
+    "image" : "bhv.png",
+    "resources" : [
+    
+      {
+      "title": "Bedrijfsnoodplan",
+      "resource_id": "406e-17f2-806b",
+      "description": "Informatie over de bedrijfshulpverlening binnen Waardenburg Ecology en wat medewerkers moeten doen in geval van brand, ongeval of ontruiming.",
+      "search" : "bedrijfsnoodplan informatie over de bedrijfshulpverlening binnen waardenburg ecology en wat medewerkers moeten doen in geval van brand, ongeval of ontruiming.",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Open",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/ARBO/BedrijfsHulpVerlening/Toolbox_Bedrijfsnoodplan.pdf"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "BHV'ers",
+      "resource_id": "f058-abfd-a2d1",
+      "description": "Laura (hoofd BHV) \nDaniël (veiligheidmedewerker/coordinator) \nLieuwe (ploegleider)\nUdo (ploegleider) \nRobert Jägers\nSteven\nMarije\nTom van Gemert \nCamiel \nElisa\nWouter \nFleur \nArie\nGuus",
+      "search" : "bhv'ers laura (hoofd bhv) \ndaniël (veiligheidmedewerker/coordinator) \nlieuwe (ploegleider)\nudo (ploegleider) \nrobert jägers\nsteven\nmarije\ntom van gemert \ncamiel \nelisa\nwouter \nfleur \narie\nguus",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+      ]
+      }
+    ,
+      {
+      "title": "Richtlijnen bij brand of ongeval",
+      "resource_id": "6c4b-0bb7-4cde",
+      "description": "Dit A4'tje hangt ook overal door het pand en geeft de belangrijkste acties aan wat te doen bij brand of een ongeval.",
+      "search" : "richtlijnen bij brand of ongeval dit a4'tje hangt ook overal door het pand en geeft de belangrijkste acties aan wat te doen bij brand of een ongeval.",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Open",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/ARBO/BedrijfsHulpVerlening/Toolbox_Richtlijnen_bij_brand_ongeval.docx"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Intern noodnummer",
+      "resource_id": "e456-878b-abea",
+      "description": "5555\n\nTe bellen via een vast telefoontoestel (staan in alle kamers)\nJe krijgt de receptie aan de lijn",
+      "search" : "intern noodnummer 5555\n\nte bellen via een vast telefoontoestel (staan in alle kamers)\nje krijgt de receptie aan de lijn",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+      ]
+      }
+    ,
+      {
+      "title": "AED",
+      "resource_id": "a1df-33b6-edb5",
+      "description": "Er hangen 2 AED's in het pand: 1) in het hoofdgebouw op de eerste verdieping (zijkant Ovale tafel) tegenover het toilet en 2) in 't Jach. Een draagbare AED is aanwezig bij Daniël voor werkzaamheden op of rond het water.",
+      "search" : "aed er hangen 2 aed's in het pand: 1) in het hoofdgebouw op de eerste verdieping (zijkant ovale tafel) tegenover het toilet en 2) in 't jach. een draagbare aed is aanwezig bij daniël voor werkzaamheden op of rond het water.",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+      ]
+      }
+    ,
+      {
+      "title": "Geluid ontruimingsalarm",
+      "resource_id": "c276-634c-ce30",
+      "description": "",
+      "search" : "geluid ontruimingsalarm ",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Luister hier",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/ARBO/BedrijfsHulpVerlening/Geluid/Toolbox_Geluid_slowwhoop_brandalarm.mov"
+        }
+      
+      ]
+      }
+    
+    ]
+}
+ ,
+      {
+    "title": "Broodje Waardenburger",
+    "type": "category",
+    "permalink" : "http://localhost:13131/category/broodje_waardenburger/index.json",
+    "rel_permalink" : "/category/broodje_waardenburger/index.json",
+    "description" : "",
+    "search" : "broodje waardenburger ",
+    "image" : "broodje.png",
+    "resources" : [
+    
+      {
+      "title": "WIE - introductie nieuwe medewerkers",
+      "resource_id": "59a6-f350-9e67",
+      "description": "",
+      "search" : "wie - introductie nieuwe medewerkers ",
+      "primary_action": "<no value>",
+      "image": "broodje.png",
+      "actions" : [
+      
+        {
+        "title": "Kijk terug",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/BuWa_Academie/4_Broodjes_Waardenburger/1_Wie_Nieuwe_medewerkers"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "WAT - thema-presentaties",
+      "resource_id": "1fe3-d186-b203",
+      "description": "",
+      "search" : "wat - thema-presentaties ",
+      "primary_action": "<no value>",
+      "image": "broodje.png",
+      "actions" : [
+      
+        {
+        "title": "Kijk terug",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/BuWa_Academie/4_Broodjes_Waardenburger/2_Wat_Trots_op_Waardenburg_Ecology"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "HOE - doen we dat?-presentaties",
+      "resource_id": "a947-46e5-f413",
+      "description": "",
+      "search" : "hoe - doen we dat?-presentaties ",
+      "primary_action": "<no value>",
+      "image": "broodje.png",
+      "actions" : [
+      
+        {
+        "title": "Kijk terug",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/BuWa_Academie/4_Broodjes_Waardenburger/3_Hoe_doen_we_dat_onderwerpen"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Planning & contact",
+      "resource_id": "6c15-1e50-9dd6",
+      "description": "",
+      "search" : "planning & contact ",
+      "primary_action": "<no value>",
+      "image": "broodje.png",
+      "actions" : [
+      
+        {
+        "title": "Contact",
+        "url": "mailto:l.van.dijk@waardenburg.eco"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Eindpresentaties stagiairs",
+      "resource_id": "9cdb-bac8-ac75",
+      "description": "",
+      "search" : "eindpresentaties stagiairs ",
+      "primary_action": "<no value>",
+      "image": "broodje.png",
+      "actions" : [
+      
+        {
+        "title": "Kijk terug",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/BuWa_Academie/4_Broodjes_Waardenburger/5_Eindpraatjes_Stagiairs"
+        }
+      
+      ]
+      }
+    
+    ]
+}
+ ,
+      {
+    "title": "Communicatie extern",
+    "type": "category",
+    "permalink" : "http://localhost:13131/category/communicatie_extern/index.json",
+    "rel_permalink" : "/category/communicatie_extern/index.json",
+    "description" : "",
+    "search" : "communicatie extern ",
+    "image" : "communicatie.png",
+    "resources" : [
+    
+      {
+      "title": "Social media",
+      "resource_id": "5914-fe1d-7ea9",
+      "description": "Waardenburg Ecology is actief op LinkedIn, Facebook, YouTube... ",
+      "search" : "social media waardenburg ecology is actief op linkedin, facebook, youtube... ",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/company/bureau-waardenburg-bv/"
+        }
+      ,
+        {
+        "title": "Facebook",
+        "url": "https://www.facebook.com/BureauWaardenburg/"
+        }
+      ,
+        {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@WaardenburgEcology"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Waardenburg in de media",
+      "resource_id": "901c-3507-77e6",
+      "description": "Op deze pagina op onze website laten we zien in welke we genoemd worden (wetenschappelijke artikelen, televisie-uitzendingen, krantenartikel etc). Heb je een tip? Mail Martijn (link hieronder)",
+      "search" : "waardenburg in de media op deze pagina op onze website laten we zien in welke we genoemd worden (wetenschappelijke artikelen, televisie-uitzendingen, krantenartikel etc). heb je een tip? mail martijn (link hieronder)",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Open",
+        "url": "https://waardenburg.eco/actueel/in-de-media"
+        }
+      ,
+        {
+        "title": "Tip Martijn",
+        "url": "mailto@m.waardenburg@waardenburg.eco"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Nieuwsbrieven extern",
+      "resource_id": "2d84-1376-5eff",
+      "description": "",
+      "search" : "nieuwsbrieven extern ",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+      ]
+      }
+    
+    ]
+}
+ ,
+      {
+    "title": "Communicatie intern",
+    "type": "category",
+    "permalink" : "http://localhost:13131/category/communicatie_intern/index.json",
+    "rel_permalink" : "/category/communicatie_intern/index.json",
+    "description" : "",
+    "search" : "communicatie intern ",
+    "image" : "communicatie.png",
+    "resources" : [
+    
+      {
+      "title": "Nieuwsbrieven OR",
+      "resource_id": "c704-afa0-636b",
+      "description": "",
+      "search" : "nieuwsbrieven or ",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+      ]
+      }
+    ,
+      {
+      "title": "Personeelsberichten",
+      "resource_id": "22d6-841f-806d",
+      "description": "Van de directie tweemaal per jaar.",
+      "search" : "personeelsberichten van de directie tweemaal per jaar.",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+      ]
+      }
+    ,
+      {
+      "title": "Beleidsverklaring Waardenburg Ecology 2022",
+      "resource_id": "40ff-61a8-2469",
+      "description": "",
+      "search" : "beleidsverklaring waardenburg ecology 2022 ",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Open",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Directie - info naar medewerkers/Beleidsverklaring Waardenburg Ecology 2022-09-01.pdf"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Algemene vergaderingen",
+      "resource_id": "d61e-3866-2abe",
+      "description": "Twee keer per jaar is er een AV. De directie vertelt over de bedrijfsresultaten, de plannen voor het volgende half jaar en bijzonderheden. De presentaties van de afgelopen AV's kun je hier terugkijken.",
+      "search" : "algemene vergaderingen twee keer per jaar is er een av. de directie vertelt over de bedrijfsresultaten, de plannen voor het volgende half jaar en bijzonderheden. de presentaties van de afgelopen av's kun je hier terugkijken.",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Open",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/AV's"
+        }
+      
+      ]
+      }
+    
+    ]
+}
+ ,
+      {
+    "title": "Gebouwen",
+    "type": "category",
+    "permalink" : "http://localhost:13131/category/gebouwen/index.json",
+    "rel_permalink" : "/category/gebouwen/index.json",
+    "description" : "",
+    "search" : "gebouwen ",
+    "image" : "gebouw4.png",
+    "resources" : [
+    
+      {
+      "title": "Alarm Culemborg en loods",
+      "resource_id": "d8e2-b1f3-86ce",
+      "description": "In de handleiding vind je alle informatie over zones, het in-/uitschakelen, het geluid en veelgestelde vragen over het alarm.\nBij de voordeur hangt een beknopte versie.\n\nJe kunt altijd een persoonlijk instructierondje door het pand aanvragen bij Hans de Jong.\nContactpersonen: Hans de Jong en Riny van Beurden",
+      "search" : "alarm culemborg en loods in de handleiding vind je alle informatie over zones, het in-/uitschakelen, het geluid en veelgestelde vragen over het alarm.\nbij de voordeur hangt een beknopte versie.\n\nje kunt altijd een persoonlijk instructierondje door het pand aanvragen bij hans de jong.\ncontactpersonen: hans de jong en riny van beurden",
+      "primary_action": "<no value>",
+      "image": "gebouw4.png",
+      "actions" : [
+      
+        {
+        "title": "Handleiding",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Instructies_veldformulieren_handleidingen/Alarm/Toolbox_Pand_afsluiten_alarm_inschakelen.docx"
+        }
+      ,
+        {
+        "title": "Filmpje alarm inschakelen",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Instructies_veldformulieren_handleidingen/Alarm/Toolbox_Alarm_inschakelen.mov"
+        }
+      ,
+        {
+        "title": "Filmpje alarm inschakelen & afbreken",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Instructies_veldformulieren_handleidingen/Alarm/Toolbox_Alarm_inschakelen-afbreken.mov"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Alarm Haren",
+      "resource_id": "788e-2a69-a65b",
+      "description": "volgt",
+      "search" : "alarm haren volgt",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+      ]
+      }
+    ,
+      {
+      "title": "Faciliteiten",
+      "resource_id": "0430-ec51-aa90",
+      "description": "",
+      "search" : "faciliteiten ",
+      "primary_action": "<no value>",
+      "image": "gebouw4.png",
+      "actions" : [
+      
+      ]
+      }
+    ,
+      {
+      "title": "Aanwezigheidsbord",
+      "resource_id": "56af-918d-423e",
+      "description": "Het aanwezigheidsbord hangt bij de voordeur van de Varkensmark 9. Het is nodig voor de BHV-organisatie om bij een calamiteit te bepalen wie er in het gebouw is. Ook wordt het door velen gebruikt om te zien of een collega op kantoor is :-) Op je computer inloggen op SpotYou kan via https://www.spotyou.nl/dashboard, met username wie@buwa.nl en password WieIsEr?",
+      "search" : "aanwezigheidsbord het aanwezigheidsbord hangt bij de voordeur van de varkensmark 9. het is nodig voor de bhv-organisatie om bij een calamiteit te bepalen wie er in het gebouw is. ook wordt het door velen gebruikt om te zien of een collega op kantoor is :-) op je computer inloggen op spotyou kan via https://www.spotyou.nl/dashboard, met username wie@buwa.nl en password wieiser?",
+      "primary_action": "<no value>",
+      "image": "gebouw4.png",
+      "actions" : [
+      
+        {
+        "title": "Open SpotYou",
+        "url": "https://www.spotyou.nl/dashboard"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Calamiteiten",
+      "resource_id": "1706-479e-09de",
+      "description": "",
+      "search" : "calamiteiten ",
+      "primary_action": "<no value>",
+      "image": "gebouw4.png",
+      "actions" : [
+      
+      ]
+      }
+    ,
+      {
+      "title": "(post-Covid) kantoorgebruik",
+      "resource_id": "8add-1fdc-bf26",
+      "description": "Bericht uit personeelsbericht 16 feb 2022 over kantoorgebruik na Covid",
+      "search" : "(post-covid) kantoorgebruik bericht uit personeelsbericht 16 feb 2022 over kantoorgebruik na covid",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Open",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Instructies_veldformulieren_handleidingen/Interne communicatie/22.02.16 post-covid kantoor.docx"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Schoonmaak",
+      "resource_id": "5bf0-7b62-b030",
+      "description": "",
+      "search" : "schoonmaak ",
+      "primary_action": "<no value>",
+      "image": "gebouw4.png",
+      "actions" : [
+      
+      ]
+      }
+    
+    ]
+}
+ ,
+      {
+    "title": "Ideeënbus",
+    "type": "category",
+    "permalink" : "http://localhost:13131/category/ideeenbus/index.json",
+    "rel_permalink" : "/category/ideeenbus/index.json",
+    "description" : "",
+    "search" : "ideeënbus ",
+    "image" : "idee2.png",
+    "resources" : [
+    
+      {
+      "title": "Stuur je idee/suggestie/wens/klacht in!",
+      "resource_id": "bc49-a8ea-e42a",
+      "description": "",
+      "search" : "stuur je idee/suggestie/wens/klacht in! ",
+      "primary_action": "<no value>",
+      "image": "idee2.png",
+      "actions" : [
+      
+        {
+        "title": "Mail",
+        "url": ""
+        }
+      
+      ]
+      }
+    
+    ]
+}
+ ,
+      {
+    "title": "IOC",
+    "type": "category",
+    "permalink" : "http://localhost:13131/category/ioc/index.json",
+    "rel_permalink" : "/category/ioc/index.json",
+    "description" : "Innovatie Ontwikkel Comité",
+    "search" : "ioc innovatie ontwikkel comité",
+    "image" : "IOC3.png",
+    "resources" : [
+    
+      {
+      "title": "Werkwijze",
+      "resource_id": "3591-7f90-c015",
+      "description": "",
+      "search" : "werkwijze ",
+      "primary_action": "<no value>",
+      "image": "IOC.png",
+      "actions" : [
+      
+        {
+        "title": "Open",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Innovatie/1a_IOC_Innovatie Ontwikkel_Comite/20200729 Werkwijze Innovatie Ontwikkel Comite.docx"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "IOC-formulier innovatie",
+      "resource_id": "ed5d-c77e-7bba",
+      "description": "",
+      "search" : "ioc-formulier innovatie ",
+      "primary_action": "<no value>",
+      "image": "IOC.png",
+      "actions" : [
+      
+        {
+        "title": "Open",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Innovatie/1a_IOC_Innovatie Ontwikkel_Comite/IOC-aanmeldformulier Innovatie.docx"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "IOC-formulier interne ontwikkeling",
+      "resource_id": "f46a-58c7-1b6e",
+      "description": "",
+      "search" : "ioc-formulier interne ontwikkeling ",
+      "primary_action": "<no value>",
+      "image": "IOC.png",
+      "actions" : [
+      
+        {
+        "title": "Open",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Innovatie/1a_IOC_Innovatie Ontwikkel_Comite/IOC-aanmeldformulier Intern Project_concept.docx"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Innovatieprojecten",
+      "resource_id": "5de8-2453-3ec7",
+      "description": "Voorbeelden van innovatieprojecten",
+      "search" : "innovatieprojecten voorbeelden van innovatieprojecten",
+      "primary_action": "<no value>",
+      "image": "under constr3.jpeg",
+      "actions" : [
+      
+      ]
+      }
+    
+    ]
+}
+ ,
+      {
+    "title": "IT",
+    "type": "category",
+    "permalink" : "http://localhost:13131/category/it/index.json",
+    "rel_permalink" : "/category/it/index.json",
+    "description" : "",
+    "search" : "it ",
+    "image" : "IT.png",
+    "resources" : [
+    
+      {
+      "title": "Ondersteuning/systeembeheer",
+      "resource_id": "d635-5ca5-e451",
+      "description": "De afdeling systeembeheer bestaat uit Rémon, Riny en Hans (teamleider). Ze zitten in het Tuinhuis aan de linkerkant.",
+      "search" : "ondersteuning/systeembeheer de afdeling systeembeheer bestaat uit rémon, riny en hans (teamleider). ze zitten in het tuinhuis aan de linkerkant.",
+      "primary_action": "<no value>",
+      "image": "systeembeheer.jpg",
+      "actions" : [
+      
+        {
+        "title": "Mail systeembeheer",
+        "url": "mailto:systeembeheer@waardenburg.eco"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Office, Teams en Outlook",
+      "resource_id": "6f62-5648-d3d7",
+      "description": "Uitleg hoe Teams en Outlook werken, online vs desktop app, digitaal vergaderen (hier ook iets in over agendabeheer?)",
+      "search" : "office, teams en outlook uitleg hoe teams en outlook werken, online vs desktop app, digitaal vergaderen (hier ook iets in over agendabeheer?)",
+      "primary_action": "<no value>",
+      "image": "MSOffice.png",
+      "actions" : [
+      
+        {
+        "title": "Handleiding Outlook",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Instructies_veldformulieren_handleidingen/Outlook agenda/2022.02.15 Broodje BuWa Outlook Agenda.pdf"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Aanwezigheidsbord",
+      "resource_id": "1ada-8d7d-9493",
+      "description": "Het aanwezigheidsbord hangt bij de voordeur van de Varkensmark 9. Het is nodig voor de BHV-organisatie om bij een calamiteit te bepalen wie er in het gebouw is. Ook wordt het door velen gebruikt om te zien of een collega op kantoor is :-) Op je computer inloggen op SpotYou kan via https://www.spotyou.nl/dashboard, met username wie@buwa.nl en password WieIsEr?",
+      "search" : "aanwezigheidsbord het aanwezigheidsbord hangt bij de voordeur van de varkensmark 9. het is nodig voor de bhv-organisatie om bij een calamiteit te bepalen wie er in het gebouw is. ook wordt het door velen gebruikt om te zien of een collega op kantoor is :-) op je computer inloggen op spotyou kan via https://www.spotyou.nl/dashboard, met username wie@buwa.nl en password wieiser?",
+      "primary_action": "<no value>",
+      "image": "SpotYou3.jpeg",
+      "actions" : [
+      
+        {
+        "title": "Open SpotYou",
+        "url": "https://www.spotyou.nl/dashboard"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "VPN",
+      "resource_id": "f5a6-0e88-f237",
+      "description": "Buiten kantoor werken op het netwerk via VPN.",
+      "search" : "vpn buiten kantoor werken op het netwerk via vpn.",
+      "primary_action": "<no value>",
+      "image": "VPN3.png",
+      "actions" : [
+      
+        {
+        "title": "Instructie",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Instructies_veldformulieren_handleidingen/Tips & Tricks Systeembeheer/Toolbox_VPN.docx"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Nieuwsbrieven",
+      "resource_id": "5915-9009-1541",
+      "description": "Via de button hieronder vind je de complete lijst nieuwsbrieven van Waardenburg Ecology. Zie 'Interne mailing - tips & tricks van systeembeheer' voor de nieuwsbrieven van systeembeheer.",
+      "search" : "nieuwsbrieven via de button hieronder vind je de complete lijst nieuwsbrieven van waardenburg ecology. zie 'interne mailing - tips & tricks van systeembeheer' voor de nieuwsbrieven van systeembeheer.",
+      "primary_action": "<no value>",
+      "image": "under const2.png",
+      "actions" : [
+      
+        {
+        "title": "Archief nieuwsbrieven",
+        "url": "https://us19.campaign-archive.com/home/?u=c138d26be3d3b1fc02f55a86c&id=82788c0177"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Telefonie",
+      "resource_id": "0d1e-0cbc-4861",
+      "description": "Bellen en gebeld worden doen we via de Hipper+-app. Lees de voordelen en werkwijze in de handleiding.\nEn ga je naar het buitenland? Dan moet je met wat zaken rekening houden, zie bijgevoegd document.",
+      "search" : "telefonie bellen en gebeld worden doen we via de hipper+-app. lees de voordelen en werkwijze in de handleiding.\nen ga je naar het buitenland? dan moet je met wat zaken rekening houden, zie bijgevoegd document.",
+      "primary_action": "<no value>",
+      "image": "Telefonie2.png",
+      "actions" : [
+      
+        {
+        "title": "Hipper-handleiding",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Instructies_veldformulieren_handleidingen/Telefonie/Toolbox_Hipperhandleiding.docx"
+        }
+      ,
+        {
+        "title": "Naar het buitenland?",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Instructies_veldformulieren_handleidingen/Telefonie/Toolbox_Naar_het_buitenland.docx"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Pdf samenvoegen",
+      "resource_id": "9cc8-a0c9-39c3",
+      "description": "Wij gebruiken op onze Macbooks de tool PDF Expert. Hiermee kun je onder andere pdf-bestanden verkleinen en samenvoegen. Een uitgebreide handleiding vind je online, klik op de button.",
+      "search" : "pdf samenvoegen wij gebruiken op onze macbooks de tool pdf expert. hiermee kun je onder andere pdf-bestanden verkleinen en samenvoegen. een uitgebreide handleiding vind je online, klik op de button.",
+      "primary_action": "<no value>",
+      "image": "under const2.png",
+      "actions" : [
+      
+        {
+        "title": "Online handleiding",
+        "url": "https://support.readdle.com/pdfexpert/en_US/using-pdf-expert"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "E-mailhandtekening",
+      "resource_id": "74e2-ccc8-a313",
+      "description": "Bijgaand de Waardenburg-handtekening om te kopiëren en in je eigen Outlook-app te plakken.\nVoor een uniforme en professionele uitstraling vragen we je deze handtekening te gebruiken en geen eigen banners/teksten aan je e-mailhandtekening toe te voegen.",
+      "search" : "e-mailhandtekening bijgaand de waardenburg-handtekening om te kopiëren en in je eigen outlook-app te plakken.\nvoor een uniforme en professionele uitstraling vragen we je deze handtekening te gebruiken en geen eigen banners/teksten aan je e-mailhandtekening toe te voegen.",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Open",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Instructies_veldformulieren_handleidingen/Outlook/Toolbox_Digitale_handtekening.docx"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "WeTransfer",
+      "resource_id": "72c1-3177-5e90",
+      "description": "Grote bestanden kun je eenvoudig versturen vanaf ons WeTranfer-kanaal. Zie bijgaand de instructie.",
+      "search" : "wetransfer grote bestanden kun je eenvoudig versturen vanaf ons wetranfer-kanaal. zie bijgaand de instructie.",
+      "primary_action": "<no value>",
+      "image": "WeTransfer3.png",
+      "actions" : [
+      
+        {
+        "title": "Instructie",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Instructies_veldformulieren_handleidingen/Wetransfer Plus/Toolbox_Handleiding_Wetransfer.docx"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Mail en Agenda op je telefoon",
+      "resource_id": "dd6a-850e-220a",
+      "description": "Een korte toelichting hoe je Outlook (mail en agenda) op je telefoon zet.",
+      "search" : "mail en agenda op je telefoon een korte toelichting hoe je outlook (mail en agenda) op je telefoon zet.",
+      "primary_action": "<no value>",
+      "image": "under const2.png",
+      "actions" : [
+      
+        {
+        "title": "Instructie",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Instructies_veldformulieren_handleidingen/Outlook/Toolbox_Mail_en_agenda_op_telefoon.docx"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Afwezigheidsbericht / vakantie",
+      "resource_id": "15b5-6aa7-9b05",
+      "description": "Ben je voor langere tijd afwezig, stel dan in Outlook een automatisch antwoord in zodat de verzender weet dat je langere tijd je e-mail niet zult lezen. In de bijlage staat hoe je dit doet en kun je een voorbeeldtekst kopiëren.",
+      "search" : "afwezigheidsbericht / vakantie ben je voor langere tijd afwezig, stel dan in outlook een automatisch antwoord in zodat de verzender weet dat je langere tijd je e-mail niet zult lezen. in de bijlage staat hoe je dit doet en kun je een voorbeeldtekst kopiëren.",
+      "primary_action": "<no value>",
+      "image": "under const2.png",
+      "actions" : [
+      
+        {
+        "title": "Instructie",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Instructies_veldformulieren_handleidingen/Outlook/Toolbox_Afwezigheid_Out-of-office.docx"
+        }
+      
+      ]
+      }
+    
+    ]
+}
+ ,
+      {
+    "title": "Kwaliteitszorg",
+    "type": "category",
+    "permalink" : "http://localhost:13131/category/kwaliteitszorg/index.json",
+    "rel_permalink" : "/category/kwaliteitszorg/index.json",
+    "description" : "",
+    "search" : "kwaliteitszorg ",
+    "image" : "kwaliteit.png",
+    "resources" : [
+    
+      {
+      "title": "KAM-team",
+      "resource_id": "8d57-2f7c-43d6",
+      "description": "Het KAM-team bestaat uit: \n- Martien Meijer: directielid met KAM in portefeuille, met zwaartepunten op ISO 9001, CO2-Prestatieladder, VCA**\n- Hennita Posthumus: kwaliteitsfunctionaris ISO 17025, organisatie interne audits ISO 9001 en ISO 17025\n- Daniël Beuker: VGM-functionaris (veiligheid, gezondheid, milieu), veilig werken, VCA**\n- ad hoc: Laura van Dijk: Hoofd-BHV \n- ad hoc: Hans de Jong: preventieteam, gebouwenbeheer",
+      "search" : "kam-team het kam-team bestaat uit: \n- martien meijer: directielid met kam in portefeuille, met zwaartepunten op iso 9001, co2-prestatieladder, vca**\n- hennita posthumus: kwaliteitsfunctionaris iso 17025, organisatie interne audits iso 9001 en iso 17025\n- daniël beuker: vgm-functionaris (veiligheid, gezondheid, milieu), veilig werken, vca**\n- ad hoc: laura van dijk: hoofd-bhv \n- ad hoc: hans de jong: preventieteam, gebouwenbeheer",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+      ]
+      }
+    ,
+      {
+      "title": "Kwaliteitshandboek ISO 9001",
+      "resource_id": "e3c8-7691-f8a7",
+      "description": "Het kwaliteitshandboek ISO 9001 beschrijft hoe Waardenburg Ecology georganiseerd is en haar kwaliteitszorg heeft vormgegeven. Het beschrijft hoe wij werken, onderling communiceren en afstemmen en hoe wij tot resultaten komen.\nHet primaire proces van offerte-aanvraag, uitbrengen van een offerte, sluiten van overeenkomst met de opdrachtgever, uitvoeren van het project tot en met evalueren, afsluiten en archiveren wordt stap-voor-stap beschreven. \nHet ISO 9001-kwaliteitsmanagementsysteem geldt voor alle medewerkers. Een van de uitgangspunten is dat de procedures voor iedereen duidelijk zijn. Als iemand onverwacht uitvalt of wegens vakantie niet beschikbaar is, moet een ander snel kunnen nagaan wat de gemaakte afspraken zijn en waar documenten te vinden zijn. Daarmee wordt gegarandeerd dat eenmaal aangenomen opdrachten te allen tijd van begin tot eind volgens gemaakte afspraken uitgevoerd kunnen worden\n",
+      "search" : "kwaliteitshandboek iso 9001 het kwaliteitshandboek iso 9001 beschrijft hoe waardenburg ecology georganiseerd is en haar kwaliteitszorg heeft vormgegeven. het beschrijft hoe wij werken, onderling communiceren en afstemmen en hoe wij tot resultaten komen.\nhet primaire proces van offerte-aanvraag, uitbrengen van een offerte, sluiten van overeenkomst met de opdrachtgever, uitvoeren van het project tot en met evalueren, afsluiten en archiveren wordt stap-voor-stap beschreven. \nhet iso 9001-kwaliteitsmanagementsysteem geldt voor alle medewerkers. een van de uitgangspunten is dat de procedures voor iedereen duidelijk zijn. als iemand onverwacht uitvalt of wegens vakantie niet beschikbaar is, moet een ander snel kunnen nagaan wat de gemaakte afspraken zijn en waar documenten te vinden zijn. daarmee wordt gegarandeerd dat eenmaal aangenomen opdrachten te allen tijd van begin tot eind volgens gemaakte afspraken uitgevoerd kunnen worden\n",
+      "primary_action": "<no value>",
+      "image": "ISO9001.2.png",
+      "actions" : [
+      
+        {
+        "title": "Open kwaliteitshandboek",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/ISO/ISO 9001 Kwaliteitshandboek v8.2 2022/a KWALITEITSHANDBOEK BW v8.2 .pdf"
+        }
+      ,
+        {
+        "title": "Bijlagen",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/ISO/ISO 9001 Kwaliteitshandboek v8.2 2022"
+        }
+      ,
+        {
+        "title": "Certificaat ISO 9001:2015",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/ISO/ISO certificaten BuWa/ISO 9001/ISO 9001-2105 EIK041.02 Certificaat Bureau Waardenburg.pdf"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Kwaliteitshandboek ISO 17025",
+      "resource_id": "dd70-0a9d-537e",
+      "description": "Het kwaliteitshandboek ISO 17025 beschrijft tot in detail de werkwijzen die in de laboratoria gevolgd worden en gaat daarmee verder dan het ISO 9001-kwaliteitshandboek. Het ISO 17025-kwaliteitsmanagementsysteem bestaat, behalve uit het kwaliteitshandboek, uit een groot aantal documenten waarin werkwijzen, analysemethoden en registratieformulieren worden beschreven. Hiermee kunnen we een aantal hydrobiologische verrichtingen onder accreditatie uitvoeren, bijvoorbeeld het uitzoeken en determineren van macrofauna en het analyseren van fytoplanktonmonsters. \n\nAlleen de medewerkers die intern opgeleid zijn om deze verrichtingen te mogen uitvoeren hebben met dit kwaliteitsmanagementsysteem te maken.",
+      "search" : "kwaliteitshandboek iso 17025 het kwaliteitshandboek iso 17025 beschrijft tot in detail de werkwijzen die in de laboratoria gevolgd worden en gaat daarmee verder dan het iso 9001-kwaliteitshandboek. het iso 17025-kwaliteitsmanagementsysteem bestaat, behalve uit het kwaliteitshandboek, uit een groot aantal documenten waarin werkwijzen, analysemethoden en registratieformulieren worden beschreven. hiermee kunnen we een aantal hydrobiologische verrichtingen onder accreditatie uitvoeren, bijvoorbeeld het uitzoeken en determineren van macrofauna en het analyseren van fytoplanktonmonsters. \n\nalleen de medewerkers die intern opgeleid zijn om deze verrichtingen te mogen uitvoeren hebben met dit kwaliteitsmanagementsysteem te maken.",
+      "primary_action": "<no value>",
+      "image": "ISO17025.4.png",
+      "actions" : [
+      
+        {
+        "title": "Open handboek",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/ISO/ISO 17025 Accreditatie/01 KHB ISO 17025/01 ORG/BW-ORG-001_vs 2.1 Kwaliteitshandboek ISO 17025.pdf"
+        }
+      ,
+        {
+        "title": "Certificaat ISO 17025",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/ISO/ISO certificaten BuWa/ISO 17025/L572-H05 Verklaring.pdf"
+        }
+      ,
+        {
+        "title": "Meest recente voorschriften ",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/ISO/ISO 17025 Accreditatie"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "CO2-prestatieladder",
+      "resource_id": "b93e-65ba-2202",
+      "description": "Bijgaand certificaat geldig van 30 juli 2021 tot 14 juli 2024.",
+      "search" : "co2-prestatieladder bijgaand certificaat geldig van 30 juli 2021 tot 14 juli 2024.",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Certificaat",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/ISO/ISO certificaten BuWa/CO2 prestatieladder/CO2 Prestatieladder BuWa geldig tot 14 juli 2024.pdf"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Klantcoach",
+      "resource_id": "a8e3-ab15-e2c3",
+      "description": "Online applicatie om klanttevredenheid in kaart te brengen.",
+      "search" : "klantcoach online applicatie om klanttevredenheid in kaart te brengen.",
+      "primary_action": "<no value>",
+      "image": "klantcoach2.png",
+      "actions" : [
+      
+        {
+        "title": "Laatste rapportage",
+        "url": ""
+        }
+      ,
+        {
+        "title": "Instructie rapportage interpreteren",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/ISO/Klantcoach rapportage en instructiefilmpje/Instructie rapportage klantcoach.mov"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Melden kwaliteitsissues",
+      "resource_id": "2732-d8bc-a219",
+      "description": "Mocht je te maken krijgen met:\n- een uiting van een ontevreden opdrachtgever\n- een onveilige situatie / bijna-ongeval / ongeval \nmeld dit dan aan het KAM-team! Noem daarbij: projectnummer, opdrachtgever, wie zijn erbij betrokken geweest, wat is er aan de hand.\n\n> Afhankelijk van onderwerp wordt door het KAM-team een 'VAK' aangemaakt (Verbetering, Afwijking, Klacht) en een vervolgactie geformuleerd. Hiermee wordt volgens het 4-O-principe (oorzaak, omvang, oplossing, operationaliteit) naar een oplossing toegewerkt.\n> Bij dringende zaken wordt direct met leidinggevende (projectleider, teamleider, directie) beraadslaagd.\n> In het algemeen krijg je binnen 1 dag tot 1 week een eerste reactie.",
+      "search" : "melden kwaliteitsissues mocht je te maken krijgen met:\n- een uiting van een ontevreden opdrachtgever\n- een onveilige situatie / bijna-ongeval / ongeval \nmeld dit dan aan het kam-team! noem daarbij: projectnummer, opdrachtgever, wie zijn erbij betrokken geweest, wat is er aan de hand.\n\n> afhankelijk van onderwerp wordt door het kam-team een 'vak' aangemaakt (verbetering, afwijking, klacht) en een vervolgactie geformuleerd. hiermee wordt volgens het 4-o-principe (oorzaak, omvang, oplossing, operationaliteit) naar een oplossing toegewerkt.\n> bij dringende zaken wordt direct met leidinggevende (projectleider, teamleider, directie) beraadslaagd.\n> in het algemeen krijg je binnen 1 dag tot 1 week een eerste reactie.",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Maak melding",
+        "url": "mailto:kam@waardenburg.eco"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Audits",
+      "resource_id": "746c-27da-8004",
+      "description": "- Managementreview: beoordeling door de directie van het kwaliteitsmanagementsysteem ISO 9001:2015 en jaarverslag van het KAM-team\n- Beoordeling/externe audit ISO 9001 door EIK ",
+      "search" : "audits - managementreview: beoordeling door de directie van het kwaliteitsmanagementsysteem iso 9001:2015 en jaarverslag van het kam-team\n- beoordeling/externe audit iso 9001 door eik ",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Managementreview 2022",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Directie - info naar medewerkers/info vanuit Directie 2022/Managementreview BuWa 2022 v1.5 2022-05-13 DEF kopie.pdf"
+        }
+      ,
+        {
+        "title": "Rapportage ISO9001",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/ISO/01 ISO 9001 Kwaliteitsmanagementsysteem bedrijfsbreed/ISO 9001 Certiked / EIK rapporten externe audits/2022 Rapportage Bureau Waardenburg HCA (LALOL) 12-05-2022 definitief.pdf"
+        }
+      
+      ]
+      }
+    
+    ]
+}
+ ,
+      {
+    "title": "Literatuur",
+    "type": "category",
+    "permalink" : "http://localhost:13131/category/literatuur/index.json",
+    "rel_permalink" : "/category/literatuur/index.json",
+    "description" : "",
+    "search" : "literatuur ",
+    "image" : "literatuur4.png",
+    "resources" : [
+    
+      {
+      "title": "Bibliotheek",
+      "resource_id": "4fcb-46bb-7e26",
+      "description": "",
+      "search" : "bibliotheek ",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Open",
+        "url": ""
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "EndNote",
+      "resource_id": "adff-000a-9125",
+      "description": "",
+      "search" : "endnote ",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Open",
+        "url": ""
+        }
+      
+      ]
+      }
+    
+    ]
+}
+ ,
+      {
+    "title": "Loods & Materiaal",
+    "type": "category",
+    "permalink" : "http://localhost:13131/category/loods_en_materiaal/index.json",
+    "rel_permalink" : "/category/loods_en_materiaal/index.json",
+    "description" : "",
+    "search" : "loods & materiaal ",
+    "image" : "loods8.svg",
+    "resources" : [
+    
+      {
+      "title": "Aanwezigheid loodsbeheerder",
+      "resource_id": "37d4-fe59-ed05",
+      "description": "Zie instructie voor de aanwezigheid van de loodsmannen. Via button 'contact' kun je direct een mail aan hen sturen.",
+      "search" : "aanwezigheid loodsbeheerder zie instructie voor de aanwezigheid van de loodsmannen. via button 'contact' kun je direct een mail aan hen sturen.",
+      "primary_action": "<no value>",
+      "image": "loods8.svg",
+      "actions" : [
+      
+        {
+        "title": "Contact",
+        "url": "mailto:materiaalbeheer@waardenburg.eco"
+        }
+      ,
+        {
+        "title": "Toelichting aanwezigheid en logistiek",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Instructies_veldformulieren_handleidingen/Loods/Logistiek loods.docx"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Reserveren materialen",
+      "resource_id": "4f8c-dfff-517e",
+      "description": "",
+      "search" : "reserveren materialen ",
+      "primary_action": "<no value>",
+      "image": "loods8.svg",
+      "actions" : [
+      
+        {
+        "title": "Instructie",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Instructies_veldformulieren_handleidingen/Loods/Logistiek loods.docx"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Diepvries vogels",
+      "resource_id": "249d-3d87-d8f2",
+      "description": "",
+      "search" : "diepvries vogels ",
+      "primary_action": "<no value>",
+      "image": "loods8.svg",
+      "actions" : [
+      
+      ]
+      }
+    
+    ]
+}
+ ,
+      {
+    "title": "Marketing & Acquisitie",
+    "type": "category",
+    "permalink" : "http://localhost:13131/category/marketing_en_acquisitie/index.json",
+    "rel_permalink" : "/category/marketing_en_acquisitie/index.json",
+    "description" : "",
+    "search" : "marketing & acquisitie ",
+    "image" : "Marketing3.png",
+    "resources" : [
+    
+      {
+      "title": "Wie doet wat?",
+      "resource_id": "ccd8-1091-b5d3",
+      "description": "Rolverdeling op de afdeling Marketing & Visuele communicatie:\n\n• Martijn Waardenburg (coördinatie)\n  - Verantwoordelijk voor de Corporate Identity van: Waardenburg Ecology, Delta Uitzendorganisatie, Delta Projectmanagement en BESE.\n  - Coördinatie marketingcommunicatie en webteam Waardenburg Ecology.\n  - In overleg PVA en informatiedragers/-uitingen bepalen.\n  - Lay-outhulp, acquisitiekalender en ‘Waardenburg in de media’: teksten optimaliseren, opzetten van interactie-ontwerp en visueel ontwerp, online en offline; digitale media, huisstijl, video, drukwerk, social media enz.\n  - Contactpersoon externe partijen voor visuele communicatie.\n\n• Marije\nLay-outhulp, illustraties maken, opzetten webpagina’s en nieuwsbrieven, huisstijlvormgeving, opmaak en uitzetten van drukwerk (folders, projectleaflets, posters), bedrijfskleding, standmateriaal, EndNote (digitale bieb), relatiebeheer, foto/videoarchief.\n\n• Ineke\nLay-outhulp, visualisaties en infographics maken, opmaak rapporten en factsheets.\n\n• Eisso en Ymkje\nAfwijkende rapportages, presentaties, etc. zoveel mogelijk project gerelateerd.\n\n• Laura\nWE: tekstregie, aanmaak webpagina’s, beheer ‘Toolbox’. \nBESE: tekstregie, relatiebeheer, content verzamelen voor visuele communicatie als project- en factsheets.\n\n• Peter Vodegel\nBESE: social media, content visuele communicatie; nieuwsbrief en website.",
+      "search" : "wie doet wat? rolverdeling op de afdeling marketing & visuele communicatie:\n\n• martijn waardenburg (coördinatie)\n  - verantwoordelijk voor de corporate identity van: waardenburg ecology, delta uitzendorganisatie, delta projectmanagement en bese.\n  - coördinatie marketingcommunicatie en webteam waardenburg ecology.\n  - in overleg pva en informatiedragers/-uitingen bepalen.\n  - lay-outhulp, acquisitiekalender en ‘waardenburg in de media’: teksten optimaliseren, opzetten van interactie-ontwerp en visueel ontwerp, online en offline; digitale media, huisstijl, video, drukwerk, social media enz.\n  - contactpersoon externe partijen voor visuele communicatie.\n\n• marije\nlay-outhulp, illustraties maken, opzetten webpagina’s en nieuwsbrieven, huisstijlvormgeving, opmaak en uitzetten van drukwerk (folders, projectleaflets, posters), bedrijfskleding, standmateriaal, endnote (digitale bieb), relatiebeheer, foto/videoarchief.\n\n• ineke\nlay-outhulp, visualisaties en infographics maken, opmaak rapporten en factsheets.\n\n• eisso en ymkje\nafwijkende rapportages, presentaties, etc. zoveel mogelijk project gerelateerd.\n\n• laura\nwe: tekstregie, aanmaak webpagina’s, beheer ‘toolbox’. \nbese: tekstregie, relatiebeheer, content verzamelen voor visuele communicatie als project- en factsheets.\n\n• peter vodegel\nbese: social media, content visuele communicatie; nieuwsbrief en website.",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+      ]
+      }
+    ,
+      {
+      "title": "Brochures/folders/leaflets",
+      "resource_id": "073b-6b44-4e32",
+      "description": "Banners, folders, leaflets e.d. zijn in ontwikkeling in de nieuwe huisstijl. \nLinkjes daarvoor volgen in Q2 van 2023. \nKom je een product tegen dat nog moet worden omgezet? Geef het door aan Martijn Waardenburg.",
+      "search" : "brochures/folders/leaflets banners, folders, leaflets e.d. zijn in ontwikkeling in de nieuwe huisstijl. \nlinkjes daarvoor volgen in q2 van 2023. \nkom je een product tegen dat nog moet worden omgezet? geef het door aan martijn waardenburg.",
+      "primary_action": "<no value>",
+      "image": "under const.png",
+      "actions" : [
+      
+      ]
+      }
+    ,
+      {
+      "title": "Banners",
+      "resource_id": "5ce1-b8d0-a32b",
+      "description": "Banners, folders, leaflets e.d. zijn in ontwikkeling in de nieuwe huisstijl. \nLinkjes daarvoor volgen in Q2 van 2023. \nKom je een product tegen dat nog moet worden omgezet? Geef het door aan Martijn Waardenburg.",
+      "search" : "banners banners, folders, leaflets e.d. zijn in ontwikkeling in de nieuwe huisstijl. \nlinkjes daarvoor volgen in q2 van 2023. \nkom je een product tegen dat nog moet worden omgezet? geef het door aan martijn waardenburg.",
+      "primary_action": "<no value>",
+      "image": "under const.png",
+      "actions" : [
+      
+      ]
+      }
+    ,
+      {
+      "title": "Bedrijfskleding",
+      "resource_id": "178a-49aa-92d7",
+      "description": "Zie bijgaande document met het kledingoverzicht, de afspraken en de mogelijkheden om te bestellen.",
+      "search" : "bedrijfskleding zie bijgaande document met het kledingoverzicht, de afspraken en de mogelijkheden om te bestellen.",
+      "primary_action": "<no value>",
+      "image": "under const.png",
+      "actions" : [
+      
+        {
+        "title": "Open",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Instructies_veldformulieren_handleidingen/Bedrijfskleding/Toolbox_Kledingoverzicht2023.pdf"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Promovideo Waardenburg Ecology",
+      "resource_id": "ef17-56c9-77ed",
+      "description": "",
+      "search" : "promovideo waardenburg ecology ",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Video op server",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Fotos_ films_illustraties/Archief-film-video/clips-eindproducties-WE-en-BuWa/Promo-films-Bureaubreed"
+        }
+      ,
+        {
+        "title": "Video op YouTube",
+        "url": "https://www.youtube.com/watch?v=rCsIUuFsxFs"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Acquisitiekalender",
+      "resource_id": "660a-e8ba-d370",
+      "description": "De acquisitiekalender staat in Outlook als ‘Agenda Acquisitiekalender’.\nMail mogelijk interessante bijeenkomsten/congressen/symposia naar Martijn Waardenburg of zet ze direct zelf in de Agenda acquisitiekalender óf koppel deze agenda wanneer je de afspraak voor jezelf inplant. Zet dan achter de titel je naam zodat iedereen ziet wie er heen gaat. \nTijdens het TLO wordt de agenda een maand vooruit besproken om te bepalen of het zinvol is om te gaan en zo ja, wie er gaan.\n",
+      "search" : "acquisitiekalender de acquisitiekalender staat in outlook als ‘agenda acquisitiekalender’.\nmail mogelijk interessante bijeenkomsten/congressen/symposia naar martijn waardenburg of zet ze direct zelf in de agenda acquisitiekalender óf koppel deze agenda wanneer je de afspraak voor jezelf inplant. zet dan achter de titel je naam zodat iedereen ziet wie er heen gaat. \ntijdens het tlo wordt de agenda een maand vooruit besproken om te bepalen of het zinvol is om te gaan en zo ja, wie er gaan.\n",
+      "primary_action": "<no value>",
+      "image": "under const.png",
+      "actions" : [
+      
+      ]
+      }
+    ,
+      {
+      "title": "Website/social media",
+      "resource_id": "5bdf-abad-fa3b",
+      "description": "Team website:\n• Martijn: beheer websites, SEO, nieuwsbrieven en social media\n• Marije, Laura, Mark en Martijn: plaatsen content op waardenburg.eco\n• Laura: tekstregie \n• Mark C: Engelse vertaling\n\nContent: \nInput voor projectpagina’s, nieuwsitems, nieuwsbrieven, social media, persberichten graag aanleveren in tekst en beeld. Eerst als agendapunt meenemen tijdens teamoverleggen.\n\nContactpersonen voor content per team:\nNL1en2:  Dennis\nVE1en2:         Astrid/Mark\nAE1:   Wendy\nAE2:   Dirk\nAE3:  Rebecca\nNIO:   Eisso\nNoord:         Jan Erik\nGIS:   Jurryt\n",
+      "search" : "website/social media team website:\n• martijn: beheer websites, seo, nieuwsbrieven en social media\n• marije, laura, mark en martijn: plaatsen content op waardenburg.eco\n• laura: tekstregie \n• mark c: engelse vertaling\n\ncontent: \ninput voor projectpagina’s, nieuwsitems, nieuwsbrieven, social media, persberichten graag aanleveren in tekst en beeld. eerst als agendapunt meenemen tijdens teamoverleggen.\n\ncontactpersonen voor content per team:\nnl1en2:  dennis\nve1en2:         astrid/mark\nae1:   wendy\nae2:   dirk\nae3:  rebecca\nnio:   eisso\nnoord:         jan erik\ngis:   jurryt\n",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+      ]
+      }
+    
+    ]
+}
+ ,
+      {
+    "title": "OR",
+    "type": "category",
+    "permalink" : "http://localhost:13131/category/or/index.json",
+    "rel_permalink" : "/category/or/index.json",
+    "description" : "Ondernemingsraad",
+    "search" : "or ondernemingsraad",
+    "image" : "OR3.jpeg",
+    "resources" : [
+    
+      {
+      "title": "Nieuwsbrieven OR",
+      "resource_id": "8d3a-35fb-4917",
+      "description": "",
+      "search" : "nieuwsbrieven or ",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Open",
+        "url": ""
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Contact - melding maken",
+      "resource_id": "3004-f2fa-43f2",
+      "description": "Een ondernemingsraad is een inspraak- en medezeggenschapsorgaan binnen een bedrijf. Een OR bestaat uit werknemers die namens het personeel overleg voeren met de werkgever over het ondernemingsbeleid en de personeelsbelangen.",
+      "search" : "contact - melding maken een ondernemingsraad is een inspraak- en medezeggenschapsorgaan binnen een bedrijf. een or bestaat uit werknemers die namens het personeel overleg voeren met de werkgever over het ondernemingsbeleid en de personeelsbelangen.",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Mail de OR",
+        "url": "mailto:or@waardenburg.eco"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Leden OR",
+      "resource_id": "17e4-7b41-1985",
+      "description": "...",
+      "search" : "leden or ...",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+      ]
+      }
+    
+    ]
+}
+ ,
+      {
+    "title": "Personeel & Organisatie",
+    "type": "category",
+    "permalink" : "http://localhost:13131/category/personeel_en_organisatie/index.json",
+    "rel_permalink" : "/category/personeel_en_organisatie/index.json",
+    "description" : "",
+    "search" : "personeel & organisatie ",
+    "image" : "PenO.png",
+    "resources" : [
+    
+      {
+      "title": "Organisatieschema",
+      "resource_id": "74be-05ed-11eb",
+      "description": "Organogram en teamindeling",
+      "search" : "organisatieschema organogram en teamindeling",
+      "primary_action": "https://storage.com",
+      "image": "under const.png",
+      "actions" : [
+      
+        {
+        "title": "Organogram",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/ISO/Organisatieschema BuWa per 2023-01-01.pdf"
+        }
+      ,
+        {
+        "title": "Teamindeling",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/ISO/Teamindeling per 2023-02-01 incl. functies.pdf"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Algemene arbeidsvoorwaarden",
+      "resource_id": "eb63-8752-cdea",
+      "description": "In deze map op de server vind je het Bedrijfsreglement en alle bijbehorende bijlagen.",
+      "search" : "algemene arbeidsvoorwaarden in deze map op de server vind je het bedrijfsreglement en alle bijbehorende bijlagen.",
+      "primary_action": "<no value>",
+      "image": "under const.png",
+      "actions" : [
+      
+        {
+        "title": "Bedrijfsreglement",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/ARBO/Bedrijfsreglement"
+        }
+      ,
+        {
+        "title": "Salarisschalen",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/ARBO/Bedrijfsreglement/BIjlage 3. Salarisschaal BuWa 2022 inclusief staf.pdf"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Functiehuis projectpersoneel",
+      "resource_id": "7f8e-4264-5a84",
+      "description": "",
+      "search" : "functiehuis projectpersoneel ",
+      "primary_action": "https://tools.com",
+      "image": "under const.png",
+      "actions" : [
+      
+        {
+        "title": "Open",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/Functiehuis/Projectpersoneel/Functiehuis-interactief-Projectpersoneel-v7.pdf"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Functiehuis staf",
+      "resource_id": "7494-7d4c-ce59",
+      "description": "",
+      "search" : "functiehuis staf ",
+      "primary_action": "https://no.com",
+      "image": "under const.png",
+      "actions" : [
+      
+        {
+        "title": "Open",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/Functiehuis/Staf/Functiehuis-interactief-STAF_v4.pdf"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Waardenburger Waarden",
+      "resource_id": "72df-8b57-03c3",
+      "description": "Hoe doen we ons werk? Wat vinden we belangrijk? Zie de Waardenburger Waarden.",
+      "search" : "waardenburger waarden hoe doen we ons werk? wat vinden we belangrijk? zie de waardenburger waarden.",
+      "primary_action": "<no value>",
+      "image": "under const.png",
+      "actions" : [
+      
+        {
+        "title": "Open",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/Werk_en_Ontwikkeling/Bijlage2_Kernwaarden_Waardenburg_Ecology.docx"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Vertrouwenspersoon",
+      "resource_id": "b603-3203-3699",
+      "description": "Als werknemer klop je bij een vertrouwenspersoon aan als je gevoelige zaken wil bespreken die te maken hebben met werk. Altijd vertrouwelijk en anoniem.\nBijgaand de voorstelbrief en contactgegevens van onze vertouwenspersoon: Geerke Hopman (zij staat ook in de Hipper-app).",
+      "search" : "vertrouwenspersoon als werknemer klop je bij een vertrouwenspersoon aan als je gevoelige zaken wil bespreken die te maken hebben met werk. altijd vertrouwelijk en anoniem.\nbijgaand de voorstelbrief en contactgegevens van onze vertouwenspersoon: geerke hopman (zij staat ook in de hipper-app).",
+      "primary_action": "<no value>",
+      "image": "under const.png",
+      "actions" : [
+      
+        {
+        "title": "Neem contact op",
+        "url": "mailto:geerke.hopman@arboned.nl"
+        }
+      ,
+        {
+        "title": "Voorstelbrief Geerke Hopman",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/ARBO/Vertrouwenspersoon/Vertrouwernspersoon 2021-.... Geerke Hopman (ArboNed) - Voorstelbrief 2021.pdf"
+        }
+      ,
+        {
+        "title": "Omschrijving taken vertrouwenspersoon",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/ARBO/Vertrouwenspersoon/Vertrouwenspersoon - omschrijving taken.pdf"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Ziek- en betermelding",
+      "resource_id": "00ae-8498-2dc8",
+      "description": "",
+      "search" : "ziek- en betermelding ",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Protocol",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/ARBO/Bedrijfsreglement/Bijlage 4 Bedrijfsreglement - Ziekteverzuim Regelling Bureau Waardenburg 2020-11-16.pdf"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "PMO",
+      "resource_id": "b3f9-10d1-7505",
+      "description": "info volgt",
+      "search" : "pmo info volgt",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+      ]
+      }
+    ,
+      {
+      "title": "Taakverdeling afdeling P&O",
+      "resource_id": "c5e5-2fdd-c804",
+      "description": "Sagai Roege: werving & selectie  (vacatures uitzetten, contact met kandidaten, aanwezig bij gesprekken, referentiecheck)\nRob van Dijck: organisatie-ontwikkeling, coaching, opleiding en training\nMarije van de Sande: begeleiding nieuwe medewerkers en stagiairs, vitaliteitsonderwerpen, PZ-taken i.s.m. Martien",
+      "search" : "taakverdeling afdeling p&o sagai roege: werving & selectie  (vacatures uitzetten, contact met kandidaten, aanwezig bij gesprekken, referentiecheck)\nrob van dijck: organisatie-ontwikkeling, coaching, opleiding en training\nmarije van de sande: begeleiding nieuwe medewerkers en stagiairs, vitaliteitsonderwerpen, pz-taken i.s.m. martien",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+      ]
+      }
+    ,
+      {
+      "title": "Werving & selectie medewerkers",
+      "resource_id": "7439-1c41-875d",
+      "description": "",
+      "search" : "werving & selectie medewerkers ",
+      "primary_action": "<no value>",
+      "image": "under const.png",
+      "actions" : [
+      
+        {
+        "title": "Handleiding",
+        "url": ""
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Werving & selectie stagiaires",
+      "resource_id": "2156-5bcb-bfe4",
+      "description": "Bijgaand het proces van de interne coordinatie en begeleidig van stagiairs en afstudeerders",
+      "search" : "werving & selectie stagiaires bijgaand het proces van de interne coordinatie en begeleidig van stagiairs en afstudeerders",
+      "primary_action": "<no value>",
+      "image": "under const.png",
+      "actions" : [
+      
+        {
+        "title": "Proces coordinatie stagiairs",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/Werving&Selectie/Stagiairs/Protocol_nieuwe_stagiairs/Proces_coordinatie_stagiairs.docx"
+        }
+      ,
+        {
+        "title": "Protocol begeleiding stagiairs",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/Werving&Selectie/Stagiairs/Protocol_nieuwe_stagiairs/Protocol_begeleiding_stagiairs.docx"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Covind",
+      "resource_id": "ee4f-6c1d-e5c0",
+      "description": "",
+      "search" : "covind ",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+      ]
+      }
+    ,
+      {
+      "title": "CV's",
+      "resource_id": "6768-8809-5572",
+      "description": "CV's van alle medewerkers op de server. Ze moeten naar nieuwe huisstijl omgezet worden, dat is nog niet voor iedereen gelukt.\nContactpersoon: Martijn Waardenburg",
+      "search" : "cv's cv's van alle medewerkers op de server. ze moeten naar nieuwe huisstijl omgezet worden, dat is nog niet voor iedereen gelukt.\ncontactpersoon: martijn waardenburg",
+      "primary_action": "<no value>",
+      "image": "under const.png",
+      "actions" : [
+      
+        {
+        "title": "Nederlandse CV's nieuwe huisstijl",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Bureauprofiel_acquisitieteksten_CVs/CV's Nederlands/CVs-WE "
+        }
+      ,
+        {
+        "title": "Nederlandse CV's oude huisstijl",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Bureauprofiel_acquisitieteksten_CVs/CV's Nederlands/CVs-BuWa/omzetten-BuWa CV's"
+        }
+      ,
+        {
+        "title": "Engelse CV's oude huisstijl",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Bureauprofiel_acquisitieteksten_CVs/CV's Engels"
+        }
+      
+      ]
+      }
+    
+    ]
+}
+ ,
+      {
+    "title": "Projectmanagement",
+    "type": "category",
+    "permalink" : "http://localhost:13131/category/projectmanagement/index.json",
+    "rel_permalink" : "/category/projectmanagement/index.json",
+    "description" : "",
+    "search" : "projectmanagement ",
+    "image" : "project3.png",
+    "resources" : [
+    
+      {
+      "title": "Projectadministratie",
+      "resource_id": "88f5-dce3-84e4",
+      "description": "Contactpersoon: Marc van der Aa",
+      "search" : "projectadministratie contactpersoon: marc van der aa",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Filmpjes voor PL's",
+        "url": ""
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Stroomschema project",
+      "resource_id": "cae4-f88c-53a4",
+      "description": "In deze checklist wordt de doorloop van een project vanaf de intake van een offerte aanvraag tot en met de eindevaluatie weergegeven.",
+      "search" : "stroomschema project in deze checklist wordt de doorloop van een project vanaf de intake van een offerte aanvraag tot en met de eindevaluatie weergegeven.",
+      "primary_action": "<no value>",
+      "image": "under const2.png",
+      "actions" : [
+      
+        {
+        "title": "Open",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/ISO/01 ISO 9001 Kwaliteitsmanagementsysteem bedrijfsbreed/Bijlage 06.1 Stroomschema doorloop project.pdf"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "ERP-systeem",
+      "resource_id": "cbb5-17c8-0c29",
+      "description": "Projectadministratie wordt nu in Trias gedaan, naar dat systeem is geen link mogelijk. Er wordt een nieuw ERP-systeem gezocht, info volgt.\nVia de button hieronder kom je in de map op de server met diverse instructies voor het gebruik van Trias.",
+      "search" : "erp-systeem projectadministratie wordt nu in trias gedaan, naar dat systeem is geen link mogelijk. er wordt een nieuw erp-systeem gezocht, info volgt.\nvia de button hieronder kom je in de map op de server met diverse instructies voor het gebruik van trias.",
+      "primary_action": "<no value>",
+      "image": "under const2.png",
+      "actions" : [
+      
+        {
+        "title": "Diverse instructies",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Instructies_veldformulieren_handleidingen/TRIAS"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Kwaliteitshandboek",
+      "resource_id": "4122-7303-d7c3",
+      "description": "",
+      "search" : "kwaliteitshandboek ",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Open",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/ISO/01 ISO 9001 Kwaliteitsmanagementsysteem bedrijfsbreed/a KWALITEITSHANDBOEK BW v8.2 .pdf"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Reizen/hotels boeken",
+      "resource_id": "a54f-ce1c-e703",
+      "description": "",
+      "search" : "reizen/hotels boeken ",
+      "primary_action": "<no value>",
+      "image": "under const2.png",
+      "actions" : [
+      
+      ]
+      }
+    ,
+      {
+      "title": "Uitbesteding onderaannemers en inhuur zzp'ers",
+      "resource_id": "0f09-b74a-f136",
+      "description": "In veel projecten laten we een deel van het werk door andere partijen uitvoeren. Hierover moeten contractuele afspraken worden vastgelegd. Voor onderuitbesteding aan onderaannemers (bedrijven, instituten) en zzp’ers (1-pitters) zijn sjabloonbrieven in Trias beschikbaar. Het is noodzakelijk voorafgaand de opdracht te formuleren en te bepalen welke voorwaarden van toepassing zijn. Dit is altijd maatwerk per project, ook i.v.m. eisen van de Belastingdienst bij zzp'ers. Dergelijke opdrachten worden veelal door Martien opgesteld op basis van de informatie van de projectleider en de prijsopgave van de onderaannemer/zzp'er. Geef tijdig aan dat er een opdrachtbrief opgesteld moet worden.",
+      "search" : "uitbesteding onderaannemers en inhuur zzp'ers in veel projecten laten we een deel van het werk door andere partijen uitvoeren. hierover moeten contractuele afspraken worden vastgelegd. voor onderuitbesteding aan onderaannemers (bedrijven, instituten) en zzp’ers (1-pitters) zijn sjabloonbrieven in trias beschikbaar. het is noodzakelijk voorafgaand de opdracht te formuleren en te bepalen welke voorwaarden van toepassing zijn. dit is altijd maatwerk per project, ook i.v.m. eisen van de belastingdienst bij zzp'ers. dergelijke opdrachten worden veelal door martien opgesteld op basis van de informatie van de projectleider en de prijsopgave van de onderaannemer/zzp'er. geef tijdig aan dat er een opdrachtbrief opgesteld moet worden.",
+      "primary_action": "<no value>",
+      "image": "under const2.png",
+      "actions" : [
+      
+      ]
+      }
+    ,
+      {
+      "title": "Capaciteitsplanning",
+      "resource_id": "042c-70d8-d18c",
+      "description": "Uitleg gebruik capaciteitsplanning (om projecturen te begroten de komende weken) in Excel.",
+      "search" : "capaciteitsplanning uitleg gebruik capaciteitsplanning (om projecturen te begroten de komende weken) in excel.",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Protocol",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Instructies_veldformulieren_handleidingen/Capaciteitsplanning instructie/Protocol nieuwe capaciteitsplanning.docx"
+        }
+      ,
+        {
+        "title": "Instructiefilmpje",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Instructies_veldformulieren_handleidingen/Capaciteitsplanning instructie/Instructiefilm Capaciteitsplanning 3.3 (13 juni 2022).mp4"
+        }
+      
+      ]
+      }
+    
+    ]
+}
+ ,
+      {
+    "title": "Resultaat & Ontwikkeling",
+    "type": "category",
+    "permalink" : "http://localhost:13131/category/resultaat_en_ontwikkeling/index.json",
+    "rel_permalink" : "/category/resultaat_en_ontwikkeling/index.json",
+    "description" : "",
+    "search" : "resultaat & ontwikkeling ",
+    "image" : "R&O.png",
+    "resources" : [
+    
+      {
+      "title": "R&O-cyclus",
+      "resource_id": "66cb-89c4-5d82",
+      "description": "De Resultaat en Ontwikkeling-cyclus zorgt voor heldere doelen en verwachtingen. In onderstaande map vind je:\n- een PowerPoint-presentatie over het R&O-proces\n- het Jaarplanformulier voor projectmedewerkers en voor stafmedewerkers\n- het Jaarverslagformulier voor projectmedewerkers en voor stafmedewerkers\n- een toelichting op het R&O-proces (bijlage 1)",
+      "search" : "r&o-cyclus de resultaat en ontwikkeling-cyclus zorgt voor heldere doelen en verwachtingen. in onderstaande map vind je:\n- een powerpoint-presentatie over het r&o-proces\n- het jaarplanformulier voor projectmedewerkers en voor stafmedewerkers\n- het jaarverslagformulier voor projectmedewerkers en voor stafmedewerkers\n- een toelichting op het r&o-proces (bijlage 1)",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Open map",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/Resultaat_en_Ontwikkeling"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Wereld van Verschil / DISC",
+      "resource_id": "5d5c-8ed8-0173",
+      "description": "De Wereld van Verschil is gebaseerd op het DISC-model en beschrijft de verschillen in voorkeursgedrag en -communicatie en bestaat uit 4 hoofdstijlen: Daadkrachtig, Invloedrijk, Stabiel en Consciëntieus.\nIedereen die bij Waardenburg Ecology komt werken, krijgt een link naar de vragenlijst waarmee zijn/haar 'Wereld van Verschil' wordt vormgegeven. Daarnaast organiseert Rob van Dijck een workshop over de opbouw en betekenis ervan. Wil je meer weten, neem contact op met Rob!\nIn deze map vind je de achtergronden van DiSC en de Personal Maps van alle 16 stijlen.",
+      "search" : "wereld van verschil / disc de wereld van verschil is gebaseerd op het disc-model en beschrijft de verschillen in voorkeursgedrag en -communicatie en bestaat uit 4 hoofdstijlen: daadkrachtig, invloedrijk, stabiel en consciëntieus.\niedereen die bij waardenburg ecology komt werken, krijgt een link naar de vragenlijst waarmee zijn/haar 'wereld van verschil' wordt vormgegeven. daarnaast organiseert rob van dijck een workshop over de opbouw en betekenis ervan. wil je meer weten, neem contact op met rob!\nin deze map vind je de achtergronden van disc en de personal maps van alle 16 stijlen.",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Mail Rob",
+        "url": "mailto:r.van.dijck@waardenburg.eco"
+        }
+      ,
+        {
+        "title": "Documenten",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/BuWa_Academie/5_Modellen_en_Concepten/Wereld_van_Verschil_DiSC_achtergronden"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Feedback geven",
+      "resource_id": "ba71-5806-ee7d",
+      "description": "Feedback is een kado, als het mooi is ingepakt; fijn om te krijgen en te geven. Goed gegeven en ontvangen feedback werkt verbindend.\n- Pdf met achtergrond en uitleg over feedback geven en ontvangen.\n- Filmpje 1 van 5 minuten over manier van communiceren in 4 stappen.\n- Filmpje 2 van 4,5 minuut over omgaan met kritiek/negatieve feedback.",
+      "search" : "feedback geven feedback is een kado, als het mooi is ingepakt; fijn om te krijgen en te geven. goed gegeven en ontvangen feedback werkt verbindend.\n- pdf met achtergrond en uitleg over feedback geven en ontvangen.\n- filmpje 1 van 5 minuten over manier van communiceren in 4 stappen.\n- filmpje 2 van 4,5 minuut over omgaan met kritiek/negatieve feedback.",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Toelichting",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/BuWa_Academie/5_Modellen_en_Concepten/Feedback/Feedback is een kado.pdf"
+        }
+      ,
+        {
+        "title": "Filmpje 1",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/BuWa_Academie/5_Modellen_en_Concepten/Feedback/Frederik Imbo- Hoe krijg je met iemand verbinding als het vierkant draait-.mov"
+        }
+      ,
+        {
+        "title": "Filmpje 2",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/BuWa_Academie/5_Modellen_en_Concepten/Feedback/Frederik Imbo- Hoe omgaan met kritiek of negatieve feedback-.mov"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "RASCI",
+      "resource_id": "4eda-e859-2b1c",
+      "description": "Een RASCI-overzicht verheldert de onderdelen van een bedrijfsproces of project, kent rollen en verantwoordelijkheden toe en definieert communicatiestromen.",
+      "search" : "rasci een rasci-overzicht verheldert de onderdelen van een bedrijfsproces of project, kent rollen en verantwoordelijkheden toe en definieert communicatiestromen.",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "RASCI binnen Waardenburg",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/BuWa_Academie/5_Modellen_en_Concepten/RASCI/RASCI_BuWa.pptx"
+        }
+      ,
+        {
+        "title": "Definities",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/BuWa_Academie/5_Modellen_en_Concepten/RASCI/RASCI_schema.pptx"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Persoonlijk leiderschap",
+      "resource_id": "33b5-2921-4c79",
+      "description": "Stephen Covey beschrijft de zeven gewoontes van effectief, persoonlijk leiderschap. Interessant voor iedereen die aan zichzelf wil werken. \nHier vind je de achtergronden.\nContactpersoon: Rob van Dijck",
+      "search" : "persoonlijk leiderschap stephen covey beschrijft de zeven gewoontes van effectief, persoonlijk leiderschap. interessant voor iedereen die aan zichzelf wil werken. \nhier vind je de achtergronden.\ncontactpersoon: rob van dijck",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "De 7 eigenschappen",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/BuWa_Academie/5_Modellen_en_Concepten/Persoonlijk_Leiderschap/Effectief_Leiderschap_Stephen_Covey.jpg"
+        }
+      ,
+        {
+        "title": "Je innerlijke stem",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/BuWa_Academie/5_Modellen_en_Concepten/Persoonlijk_Leiderschap/Van Effectiviteit Naar Inspiratie - Stephen Covey.jpg"
+        }
+      ,
+        {
+        "title": "Mail Rob",
+        "url": "mailto:r.van.dijck@waardenburg.eco"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Situationeel leiderschap",
+      "resource_id": "bc7f-0044-f937",
+      "description": "Effectieve team-/projectleiders passen de mate van sturing en ondersteuning aan op de kennis en ervaring van medewerkers bij de taken die gedaan moeten worden. \nJe kan het concept ook op jezelf toepassen: situationeel zelfleiderschap. Hoeveel sturing en ondersteuning heb jij zelf nodig bij een klus?\nContactpersoon: Rob van Dijck",
+      "search" : "situationeel leiderschap effectieve team-/projectleiders passen de mate van sturing en ondersteuning aan op de kennis en ervaring van medewerkers bij de taken die gedaan moeten worden. \nje kan het concept ook op jezelf toepassen: situationeel zelfleiderschap. hoeveel sturing en ondersteuning heb jij zelf nodig bij een klus?\ncontactpersoon: rob van dijck",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "PowerPoint",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/BuWa_Academie/5_Modellen_en_Concepten/Situationeel_Leiderschap/SL - Situationeel Leiderschap.pptx"
+        }
+      ,
+        {
+        "title": "pdf Zelfleiderschap",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/BuWa_Academie/5_Modellen_en_Concepten/Situationeel_Leiderschap/SZL- Situationeel Zelf Leiderschap.pdf"
+        }
+      ,
+        {
+        "title": "mail Rob",
+        "url": "mailto:r.van.dijck@waardenburg.eco"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Groeimindset",
+      "resource_id": "b5ff-0176-9a63",
+      "description": "Nieuwe dingen leren, uitdagingen aangaan, openstaan voor feedback maakt het leven prettiger. Creëer een groeimindset.",
+      "search" : "groeimindset nieuwe dingen leren, uitdagingen aangaan, openstaan voor feedback maakt het leven prettiger. creëer een groeimindset.",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Presentatie groei mindset",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/BuWa_Academie/5_Modellen_en_Concepten/Groeimindset/Een groeimindset maakt het leven fijner.pptx"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Getting Things Done (time management)",
+      "resource_id": "600c-0af3-4ba0",
+      "description": "Persoonlijke productiviteit verkrijgen door het verzamelen van taken, ze te verhelderen, te organiseren, te kiezen en te doen.\nDe kunst van stressvrije productiviteit, door David Allen.\n",
+      "search" : "getting things done (time management) persoonlijke productiviteit verkrijgen door het verzamelen van taken, ze te verhelderen, te organiseren, te kiezen en te doen.\nde kunst van stressvrije productiviteit, door david allen.\n",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Uitleg",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/BuWa_Academie/5_Modellen_en_Concepten/GTD_Getting_Things_Done/GTD - Getting Things Done (in ontwikkeling).pptx"
+        }
+      ,
+        {
+        "title": "Workflow",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/BuWa_Academie/5_Modellen_en_Concepten/GTD_Getting_Things_Done/GTD - Workflow_Map.pdf"
+        }
+      ,
+        {
+        "title": "Artkel NRC",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/BuWa_Academie/5_Modellen_en_Concepten/GTD_Getting_Things_Done/NRC_Handelsblad_20170621_3_06_3.pdf"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Helder en Duidelijk schrijven",
+      "resource_id": "445e-e69b-c113",
+      "description": "Achtergronden en ideeën rond het schrijven binnen Waardenburg Ecology. Van helder en duidelijk naar compact en soepel schrijven. Taal als middel om iets voor elkaar te krijgen of te veranderen.\n*Informatie over schrijfcursussen van communicatiebureau Helder en Duidelijk volgt*\nContactpersoon: Rob van Dijck",
+      "search" : "helder en duidelijk schrijven achtergronden en ideeën rond het schrijven binnen waardenburg ecology. van helder en duidelijk naar compact en soepel schrijven. taal als middel om iets voor elkaar te krijgen of te veranderen.\n*informatie over schrijfcursussen van communicatiebureau helder en duidelijk volgt*\ncontactpersoon: rob van dijck",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Schrijftips",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/BuWa_Academie/3-Leergangen/1-Kennis_van_vakgebied_of_werkproces/Schrijven/schrijftips"
+        }
+      ,
+        {
+        "title": "Inhoud workshop schrijven",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/BuWa_Academie/3-Leergangen/1-Kennis_van_vakgebied_of_werkproces/Schrijven/Helder en Duidelijk Schrijven Presentatie BuWa.pdf"
+        }
+      ,
+        {
+        "title": "Broodje BuWa door Helder en Duidelijk",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/BuWa_Academie/3-Leergangen/1-Kennis_van_vakgebied_of_werkproces/Schrijven/2022.07.12_Broodje_BUWA_Helder_en_duidelijk_communiceren.mp4"
+        }
+      
+      ]
+      }
+    
+    ]
+}
+ ,
+      {
+    "title": "Resultaat & Organisatie",
+    "type": "category",
+    "permalink" : "http://localhost:13131/category/resultaat_en_organisatie/index.json",
+    "rel_permalink" : "/category/resultaat_en_organisatie/index.json",
+    "description" : "",
+    "search" : "resultaat & organisatie ",
+    "image" : "R&O.png",
+    "resources" : [
+    
+    ]
+}
+ ,
+      {
+    "title": "Sjablonen",
+    "type": "category",
+    "permalink" : "http://localhost:13131/category/sjablonen/index.json",
+    "rel_permalink" : "/category/sjablonen/index.json",
+    "description" : "",
+    "search" : "sjablonen ",
+    "image" : "sjabloon2.png",
+    "resources" : [
+    
+      {
+      "title": "Sjabloon offerte",
+      "resource_id": "90c5-f66a-a329",
+      "description": "In nieuwe huisstijl",
+      "search" : "sjabloon offerte in nieuwe huisstijl",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Open",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/BW-Sjablonen/Sjablonen-Office-365-Offertes-Rapporten/Sjablonen/Offerte/Waardenburg-Ecology/WE-Offerte_Nederlandstalig_toelichting_2022.dotx"
+        }
+      ,
+        {
+        "title": "Berekening Excel",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/BW-Sjablonen/Sjablonen-Office-365-Offertes-Rapporten/Sjablonen/Offerte/Waardenburg-Ecology/WE_OFFERTE_sjabloon-BEREKENING_2022.xltx"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Sjabloon rapport",
+      "resource_id": "7375-63aa-0da9",
+      "description": "In nieuwe huisstijl",
+      "search" : "sjabloon rapport in nieuwe huisstijl",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Open",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/BW-Sjablonen/Sjablonen-Office-365-Offertes-Rapporten/Sjablonen/Rapportage/Waardenburg-Ecology/Rapport-WE-sjabloon-voor-feedback-NL-22.dotx"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Sjabloon notitie",
+      "resource_id": "033c-7902-e9c5",
+      "description": "",
+      "search" : "sjabloon notitie ",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Open",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/BW-Sjablonen/Sjablonen-Office-365-Offertes-Rapporten/Sjablonen/Rapportage/Waardenburg-Ecology/NOTITIE-WE-sjabloon.dotx"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Sjabloon memo / gespreksverslag",
+      "resource_id": "6e6d-c7f5-23c6",
+      "description": "",
+      "search" : "sjabloon memo / gespreksverslag ",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Open",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/BW-Sjablonen/Sjablonen-Office-365-Offertes-Rapporten/Sjablonen/Rapportage/Waardenburg-Ecology/MEMO-WE-verslag-sjabloon.dotx"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Sjabloon PowerPoint-presentatie",
+      "resource_id": "0def-a026-0a8f",
+      "description": "",
+      "search" : "sjabloon powerpoint-presentatie ",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Open",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/BW-Sjablonen/Sjablonen-Office-365-Offertes-Rapporten/Sjablonen/Waardenburg-Ecology-presentatie.potx"
+        }
+      
+      ]
+      }
+    
+    ]
+}
+ ,
+      {
+    "title": "Telefonie",
+    "type": "category",
+    "permalink" : "http://localhost:13131/category/telefonie/index.json",
+    "rel_permalink" : "/category/telefonie/index.json",
+    "description" : "",
+    "search" : "telefonie ",
+    "image" : "Telefonie3.png",
+    "resources" : [
+    
+      {
+      "title": "Hipper+-app",
+      "resource_id": "aecc-ffbd-8abf",
+      "description": "",
+      "search" : "hipper+-app ",
+      "primary_action": "https://quiqr.org",
+      "image": "Hipper.png",
+      "actions" : [
+      
+      ]
+      }
+    ,
+      {
+      "title": "Naar het buitenland?",
+      "resource_id": "08fc-28d6-b3b5",
+      "description": "",
+      "search" : "naar het buitenland? ",
+      "primary_action": "https://github.com/quiqr/",
+      "image": "Bellen buitenland.png",
+      "actions" : [
+      
+      ]
+      }
+    
+    ]
+}
+ ,
+      {
+    "title": "Themagroepen",
+    "type": "category",
+    "permalink" : "http://localhost:13131/category/themagroepen/index.json",
+    "rel_permalink" : "/category/themagroepen/index.json",
+    "description" : "",
+    "search" : "themagroepen ",
+    "image" : "themagroep.jpg",
+    "resources" : [
+    
+    ]
+}
+ ,
+      {
+    "title": "Trias",
+    "type": "category",
+    "permalink" : "http://localhost:13131/category/trias/index.json",
+    "rel_permalink" : "/category/trias/index.json",
+    "description" : "",
+    "search" : "trias ",
+    "image" : "trias.png",
+    "resources" : [
+    
+      {
+      "title": "Trias Uffizi",
+      "resource_id": "d835-700e-85b6",
+      "description": "Trias wordt gebruikt voor projectadministratie, relatiebeheer, urenschrijven, smoelenboek en materiaalbeheer, maar er wordt een nieuw ERP-systeem gezocht, info volgt.\nEen link naar Trias is niet mogelijk.\nVia de button hieronder kom je in de map op de server met diverse instructies voor het gebruik van Trias.\n\nContactpersoon: Martien Meijer",
+      "search" : "trias uffizi trias wordt gebruikt voor projectadministratie, relatiebeheer, urenschrijven, smoelenboek en materiaalbeheer, maar er wordt een nieuw erp-systeem gezocht, info volgt.\neen link naar trias is niet mogelijk.\nvia de button hieronder kom je in de map op de server met diverse instructies voor het gebruik van trias.\n\ncontactpersoon: martien meijer",
+      "primary_action": "<no value>",
+      "image": "trias.png",
+      "actions" : [
+      
+        {
+        "title": "Diverse instructies",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Instructies_veldformulieren_handleidingen/TRIAS"
+        }
+      
+      ]
+      }
+    
+    ]
+}
+ ,
+      {
+    "title": "Veldwerk",
+    "type": "category",
+    "permalink" : "http://localhost:13131/category/veldwerk/index.json",
+    "rel_permalink" : "/category/veldwerk/index.json",
+    "description" : "",
+    "search" : "veldwerk ",
+    "image" : "veldwerk4.png",
+    "resources" : [
+    
+      {
+      "title": "Materialen reserveren",
+      "resource_id": "a869-9902-b08a",
+      "description": "",
+      "search" : "materialen reserveren ",
+      "primary_action": "<no value>",
+      "image": "veldwerk4.png",
+      "actions" : [
+      
+      ]
+      }
+    ,
+      {
+      "title": "Blauw boekje",
+      "resource_id": "102d-d371-7a37",
+      "description": "",
+      "search" : "blauw boekje ",
+      "primary_action": "<no value>",
+      "image": "veldwerk4.png",
+      "actions" : [
+      
+        {
+        "title": "Open",
+        "url": ""
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Noodknop",
+      "resource_id": "d33f-c4e4-8f68",
+      "description": "In Haren en Culemborg hebben we noodknoppen liggen. Die mag je meenemen als je risicovol veldwerk gaat doen. Met zo’n noodknop kun je met één druk op de knop alarm slaan als je in de problemen bent. Zie de instructie en handleidingen voor de knop en bijbehorende app.\n",
+      "search" : "noodknop in haren en culemborg hebben we noodknoppen liggen. die mag je meenemen als je risicovol veldwerk gaat doen. met zo’n noodknop kun je met één druk op de knop alarm slaan als je in de problemen bent. zie de instructie en handleidingen voor de knop en bijbehorende app.\n",
+      "primary_action": "<no value>",
+      "image": "veldwerk4.png",
+      "actions" : [
+      
+        {
+        "title": "Instructie",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Instructies_veldformulieren_handleidingen/Noodknop/Instructie noodknop.docx"
+        }
+      ,
+        {
+        "title": "Handleiding ARA-app",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Instructies_veldformulieren_handleidingen/Noodknop/Gebruiksaanwijzing ARA-app 2021.pdf"
+        }
+      ,
+        {
+        "title": "Handleiding noodknop",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Instructies_veldformulieren_handleidingen/Noodknop/Gebruiksaanwijzing noodknop Waardenburg 2021.pdf"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Nachtwerk",
+      "resource_id": "f1c1-1e42-b930",
+      "description": "",
+      "search" : "nachtwerk ",
+      "primary_action": "<no value>",
+      "image": "veldwerk4.png",
+      "actions" : [
+      
+      ]
+      }
+    ,
+      {
+      "title": "Klic-melding nodig",
+      "resource_id": "bac1-24f3-1f9e",
+      "description": "",
+      "search" : "klic-melding nodig ",
+      "primary_action": "<no value>",
+      "image": "veldwerk4.png",
+      "actions" : [
+      
+      ]
+      }
+    ,
+      {
+      "title": "Ontheffingsaanvraag nodig",
+      "resource_id": "8ba3-0bb3-7962",
+      "description": "",
+      "search" : "ontheffingsaanvraag nodig ",
+      "primary_action": "<no value>",
+      "image": "veldwerk4.png",
+      "actions" : [
+      
+      ]
+      }
+    ,
+      {
+      "title": "VCA VOL",
+      "resource_id": "5df0-f19b-07c0",
+      "description": "",
+      "search" : "vca vol ",
+      "primary_action": "<no value>",
+      "image": "veldwerk4.png",
+      "actions" : [
+      
+      ]
+      }
+    ,
+      {
+      "title": "PBM Persoonlijk Beschermingsmiddelen",
+      "resource_id": "b1a9-ad0e-0247",
+      "description": "",
+      "search" : "pbm persoonlijk beschermingsmiddelen ",
+      "primary_action": "<no value>",
+      "image": "veldwerk4.png",
+      "actions" : [
+      
+      ]
+      }
+    
+    ]
+}
+ ,
+      {
+    "title": "Vormgeving",
+    "type": "category",
+    "permalink" : "http://localhost:13131/category/vormgeving/index.json",
+    "rel_permalink" : "/category/vormgeving/index.json",
+    "description" : "",
+    "search" : "vormgeving ",
+    "image" : "Vormgeving.png",
+    "resources" : [
+    
+      {
+      "title": "Wie doet wat?",
+      "resource_id": "82e4-04d2-e653",
+      "description": "Rolverdeling op de afdeling Marketing & Visuele communicatie:\n\n• Martijn Waardenburg (coördinatie)\n  - Verantwoordelijk voor de Corporate Identity van: Waardenburg Ecology, Delta Uitzendorganisatie, Delta Projectmanagement en BESE.\n  - Coördinatie marketingcommunicatie en webteam Waardenburg Ecology.\n  - In overleg PVA en informatiedragers/-uitingen bepalen.\n  - Lay-outhulp, acquisitiekalender en ‘Waardenburg in de media’: teksten optimaliseren, opzetten van interactie-ontwerp en visueel ontwerp, online en offline; digitale media, huisstijl, video, drukwerk, social media enz.\n  - Contactpersoon externe partijen voor visuele communicatie.\n\n• Marije\nLay-outhulp, illustraties maken, opzetten webpagina’s en nieuwsbrieven, huisstijlvormgeving, opmaak en uitzetten van drukwerk (folders, projectleaflets, posters), bedrijfskleding, standmateriaal, EndNote (digitale bieb), relatiebeheer, foto/videoarchief.\n\n• Ineke\nLay-outhulp, visualisaties en infographics maken, opmaak rapporten en factsheets.\n\n• Eisso en Ymkje\nAfwijkende rapportages, presentaties, etc. zoveel mogelijk project gerelateerd.\n\n• Laura\nWE: tekstregie, aanmaak webpagina’s, beheer ‘Toolbox’. \nBESE: tekstregie, relatiebeheer, content verzamelen voor visuele communicatie als project- en factsheets.\n\n• Peter Vodegel\nBESE: social media, content visuele communicatie; nieuwsbrief en website.\n\n",
+      "search" : "wie doet wat? rolverdeling op de afdeling marketing & visuele communicatie:\n\n• martijn waardenburg (coördinatie)\n  - verantwoordelijk voor de corporate identity van: waardenburg ecology, delta uitzendorganisatie, delta projectmanagement en bese.\n  - coördinatie marketingcommunicatie en webteam waardenburg ecology.\n  - in overleg pva en informatiedragers/-uitingen bepalen.\n  - lay-outhulp, acquisitiekalender en ‘waardenburg in de media’: teksten optimaliseren, opzetten van interactie-ontwerp en visueel ontwerp, online en offline; digitale media, huisstijl, video, drukwerk, social media enz.\n  - contactpersoon externe partijen voor visuele communicatie.\n\n• marije\nlay-outhulp, illustraties maken, opzetten webpagina’s en nieuwsbrieven, huisstijlvormgeving, opmaak en uitzetten van drukwerk (folders, projectleaflets, posters), bedrijfskleding, standmateriaal, endnote (digitale bieb), relatiebeheer, foto/videoarchief.\n\n• ineke\nlay-outhulp, visualisaties en infographics maken, opmaak rapporten en factsheets.\n\n• eisso en ymkje\nafwijkende rapportages, presentaties, etc. zoveel mogelijk project gerelateerd.\n\n• laura\nwe: tekstregie, aanmaak webpagina’s, beheer ‘toolbox’. \nbese: tekstregie, relatiebeheer, content verzamelen voor visuele communicatie als project- en factsheets.\n\n• peter vodegel\nbese: social media, content visuele communicatie; nieuwsbrief en website.\n\n",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+      ]
+      }
+    ,
+      {
+      "title": "Weekindeling ondersteuning vormgeving",
+      "resource_id": "ec85-508f-c628",
+      "description": "maandag: Ineke (6 uur per week)\ndinsdag: Martijn / Marije\nwoensdag: Marije / Martijn\ndonderdag: Marije / Martijn (Delta of BESE inplannen)\nvrijdag: Marije / Martijn\n\nOverige collega’s in overleg.\n",
+      "search" : "weekindeling ondersteuning vormgeving maandag: ineke (6 uur per week)\ndinsdag: martijn / marije\nwoensdag: marije / martijn\ndonderdag: marije / martijn (delta of bese inplannen)\nvrijdag: marije / martijn\n\noverige collega’s in overleg.\n",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+      ]
+      }
+    ,
+      {
+      "title": "Huisstijl",
+      "resource_id": "303e-7ff0-27c7",
+      "description": "Huisstijldocument met merkidentiteit, fonts, kleuren en huisstijlelementen.",
+      "search" : "huisstijl huisstijldocument met merkidentiteit, fonts, kleuren en huisstijlelementen.",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Merkidentiteit",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Logo_vormgeving_digi_print-en_drukwerk/Toolbox_Merkidentiteit_Waardenburg_Ecology.pdf"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Portretfoto's",
+      "resource_id": "9307-78bb-a6b1",
+      "description": "",
+      "search" : "portretfoto's ",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Portretfoto's",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Bureauprofiel_acquisitieteksten_CVs/CV's Nederlands/CVs-WE /CV-pasfoto"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Foto's",
+      "resource_id": "bfae-a81c-9119",
+      "description": "De fotografie binnen WE (vastleggen van projecten) wordt verzorgd door Udo (gespecialiseerd in onderwaterfotografie) en Daniël.",
+      "search" : "foto's de fotografie binnen we (vastleggen van projecten) wordt verzorgd door udo (gespecialiseerd in onderwaterfotografie) en daniël.",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Foto's",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Fotos_films_illustraties/Archief-foto's"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Video",
+      "resource_id": "2518-f577-084c",
+      "description": "Taakverdeling videowerk (vastleggen van werkvelden, promomateriaal):\nMartijn: script, bepaling van budget, doelgroep en grafische elementen, inhuur externen, muziek, filmen, editen\nPieter-Bas: filmen o.a met drone en editen \n",
+      "search" : "video taakverdeling videowerk (vastleggen van werkvelden, promomateriaal):\nmartijn: script, bepaling van budget, doelgroep en grafische elementen, inhuur externen, muziek, filmen, editen\npieter-bas: filmen o.a met drone en editen \n",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Video's werkvelden",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/ Fotos_films_illustraties/Archief-film-video/clips-eindproducties-WE-en-BuWa"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Illustraties",
+      "resource_id": "82c3-a60e-1717",
+      "description": "",
+      "search" : "illustraties ",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Illustraties",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Fotos_films_ illustraties/Archief-Illustraties"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Logo's",
+      "resource_id": "2ca0-3e7e-de0a",
+      "description": "Plek op server met logo's van BuWa, BESE, Delta en relaties waar we mee samenwerken.",
+      "search" : "logo's plek op server met logo's van buwa, bese, delta en relaties waar we mee samenwerken.",
+      "primary_action": "<no value>",
+      "image": "logo-waardenburg.png",
+      "actions" : [
+      
+        {
+        "title": "Logo's",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Logo_vormgeving_digi_print-en_drukwerk/Logo-s"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Opmaak offerte/rapport",
+      "resource_id": "8ff4-477e-9bb8",
+      "description": "Verzoek voor opmaak/lay-out van offertes en rapporten kun je mailen naar:\n- Culemborg: layout@waardenburg.eco (en/of (na)bellen bij spoed) \nDe lay-outinbox wordt door Marije, Ineke en Martijn gelezen en opgepakt\n- Noord: Kris Schep\n",
+      "search" : "opmaak offerte/rapport verzoek voor opmaak/lay-out van offertes en rapporten kun je mailen naar:\n- culemborg: layout@waardenburg.eco (en/of (na)bellen bij spoed) \nde lay-outinbox wordt door marije, ineke en martijn gelezen en opgepakt\n- noord: kris schep\n",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Mail Culemborg",
+        "url": "mailto:layout@waardenburg.eco"
+        }
+      ,
+        {
+        "title": "Mail Noord",
+        "url": "mailto:k.schepp@waardenburg.eco"
+        }
+      
+      ]
+      }
+    
+    ]
+}
+ ,
+      {
+    "title": "Waardenburg Academie",
+    "type": "category",
+    "permalink" : "http://localhost:13131/category/waardenburg_academie/index.json",
+    "rel_permalink" : "/category/waardenburg_academie/index.json",
+    "description" : "",
+    "search" : "waardenburg academie ",
+    "image" : "academie3.png",
+    "resources" : [
+    
+      {
+      "title": "Inburgeren",
+      "resource_id": "879e-5962-56c1",
+      "description": "",
+      "search" : "inburgeren ",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+      ]
+      }
+    
+    ]
+}
+ ,
+      {
+    "title": "Wagen- en botenpark",
+    "type": "category",
+    "permalink" : "http://localhost:13131/category/wagen_en_botenpark/index.json",
+    "rel_permalink" : "/category/wagen_en_botenpark/index.json",
+    "description" : "",
+    "search" : "wagen- en botenpark ",
+    "image" : "Wagenpark.png",
+    "resources" : [
+    
+      {
+      "title": "Auto reserveren",
+      "resource_id": "ad53-b419-83d4",
+      "description": "Open Trias, ga naar het 'dashboard' en klik bovenaan op het auto-incoontje",
+      "search" : "auto reserveren open trias, ga naar het 'dashboard' en klik bovenaan op het auto-incoontje",
+      "primary_action": "<no value>",
+      "image": "Wagenpark.png",
+      "actions" : [
+      
+      ]
+      }
+    ,
+      {
+      "title": "Elektrische auto",
+      "resource_id": "eb2e-24cf-c112",
+      "description": "",
+      "search" : "elektrische auto ",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+      ]
+      }
+    ,
+      {
+      "title": "Laad- en tankpas",
+      "resource_id": "cd1e-e62e-a100",
+      "description": "",
+      "search" : "laad- en tankpas ",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+      ]
+      }
+    ,
+      {
+      "title": "Calamiteiten",
+      "resource_id": "b238-f53a-fe98",
+      "description": "",
+      "search" : "calamiteiten ",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+      ]
+      }
+    ,
+      {
+      "title": "Pech onderweg",
+      "resource_id": "c53c-2874-8311",
+      "description": "",
+      "search" : "pech onderweg ",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+      ]
+      }
+    ,
+      {
+      "title": "Veilig en vaardig omgaan met Vaartuigen en Trailers",
+      "resource_id": "1870-da74-0c33",
+      "description": "Zie bijgaande document met checklist",
+      "search" : "veilig en vaardig omgaan met vaartuigen en trailers zie bijgaande document met checklist",
+      "primary_action": "<no value>",
+      "image": "Wagenpark.png",
+      "actions" : [
+      
+        {
+        "title": "Open",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Instructies_veldformulieren_handleidingen/Voer- en vaartuigen/Veilig_en_vaardig_omgaan_met_Vaartuigen_en_Trailers.pdf"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Rijbewijs BE en vaarbewijs",
+      "resource_id": "7ab9-cf70-b026",
+      "description": "Het is voor medewerkers mogelijk om op kosten van Waardenburg Ecology het rijbewijs “E achter B en een vaarbewijs 1 en 2 te halen, indien dit nodig is om werkzaamheden uit te voeren. Daarnaast wordt vanuit de Technische Dienst de mogelijkheid geboden om onder begeleiding ervaring op te doen met het rijden met een aanhanger en met varen. ",
+      "search" : "rijbewijs be en vaarbewijs het is voor medewerkers mogelijk om op kosten van waardenburg ecology het rijbewijs “e achter b en een vaarbewijs 1 en 2 te halen, indien dit nodig is om werkzaamheden uit te voeren. daarnaast wordt vanuit de technische dienst de mogelijkheid geboden om onder begeleiding ervaring op te doen met het rijden met een aanhanger en met varen. ",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+      ]
+      }
+    
+    ]
+}
+ ,
+      {
+    "title": "Werk & Ontwikkeling",
+    "type": "category",
+    "permalink" : "http://localhost:13131/category/werk_en_ontwikkeling/index.json",
+    "rel_permalink" : "/category/werk_en_ontwikkeling/index.json",
+    "description" : "",
+    "search" : "werk & ontwikkeling ",
+    "image" : "R&O.png",
+    "resources" : [
+    
+      {
+      "title": "W&O-cyclus",
+      "resource_id": "6d37-d01e-fcb8",
+      "description": "De Werk en Ontwikkeling-cyclus zorgt voor heldere doelen en verwachtingen. \n",
+      "search" : "w&o-cyclus de werk en ontwikkeling-cyclus zorgt voor heldere doelen en verwachtingen. \n",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Formulieren",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/Werk_en_Ontwikkeling/1_Formulieren_jaarverslag_en_jaarplan_2023"
+        }
+      ,
+        {
+        "title": "Kernwaarden WE",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/Werk_en_Ontwikkeling/Bijlage2_Kernwaarden_Waardenburg_Ecology.docx"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "RASCI",
+      "resource_id": "bdec-c35b-395f",
+      "description": "Een RASCI-overzicht verheldert de onderdelen van een bedrijfsproces of project, kent rollen en verantwoordelijkheden toe en definieert communicatiestromen.",
+      "search" : "rasci een rasci-overzicht verheldert de onderdelen van een bedrijfsproces of project, kent rollen en verantwoordelijkheden toe en definieert communicatiestromen.",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "RASCI binnen Waardenburg",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/BuWa_Academie/5_Modellen_en_Concepten/RASCI/RASCI_BuWa.pptx"
+        }
+      ,
+        {
+        "title": "Definities",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/BuWa_Academie/5_Modellen_en_Concepten/RASCI/RASCI_schema.pptx"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Wereld van Verschil / DISC",
+      "resource_id": "7599-e5a1-b3fa",
+      "description": "De Wereld van Verschil is gebaseerd op het DISC-model en beschrijft de verschillen in voorkeursgedrag en -communicatie en bestaat uit 4 hoofdstijlen: Daadkrachtig, Invloedrijk, Stabiel en Consciëntieus.\nIedereen die bij Waardenburg Ecology komt werken, krijgt een link naar de vragenlijst waarmee zijn/haar 'Wereld van Verschil' wordt vormgegeven. Daarnaast organiseert Rob van Dijck een workshop over de opbouw en betekenis ervan. Wil je meer weten, neem contact op met Rob!\nIn deze map vind je de achtergronden van DiSC en de Personal Maps van alle 16 stijlen.",
+      "search" : "wereld van verschil / disc de wereld van verschil is gebaseerd op het disc-model en beschrijft de verschillen in voorkeursgedrag en -communicatie en bestaat uit 4 hoofdstijlen: daadkrachtig, invloedrijk, stabiel en consciëntieus.\niedereen die bij waardenburg ecology komt werken, krijgt een link naar de vragenlijst waarmee zijn/haar 'wereld van verschil' wordt vormgegeven. daarnaast organiseert rob van dijck een workshop over de opbouw en betekenis ervan. wil je meer weten, neem contact op met rob!\nin deze map vind je de achtergronden van disc en de personal maps van alle 16 stijlen.",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Mail Rob",
+        "url": "mailto:r.van.dijck@waardenburg.eco"
+        }
+      ,
+        {
+        "title": "Documenten",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/BuWa_Academie/5_Modellen_en_Concepten/Wereld_van_Verschil_DiSC_achtergronden"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Feedback geven",
+      "resource_id": "0c63-91dd-c09a",
+      "description": "Feedback is een kado, als het mooi is ingepakt; fijn om te krijgen en te geven. Goed gegeven en ontvangen feedback werkt verbindend.\n- Pdf met achtergrond en uitleg over feedback geven en ontvangen.\n- Filmpje 1 van 5 minuten over manier van communiceren in 4 stappen.\n- Filmpje 2 van 4,5 minuut over omgaan met kritiek/negatieve feedback.",
+      "search" : "feedback geven feedback is een kado, als het mooi is ingepakt; fijn om te krijgen en te geven. goed gegeven en ontvangen feedback werkt verbindend.\n- pdf met achtergrond en uitleg over feedback geven en ontvangen.\n- filmpje 1 van 5 minuten over manier van communiceren in 4 stappen.\n- filmpje 2 van 4,5 minuut over omgaan met kritiek/negatieve feedback.",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Toelichting",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/BuWa_Academie/5_Modellen_en_Concepten/Feedback/Toolbox_Feedback_is_een_kado.pdf"
+        }
+      ,
+        {
+        "title": "Filmpje 1",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/BuWa_Academie/5_Modellen_en_Concepten/Feedback/Frederik_Imbo-Hoe_krijg_je_met_iemand_verbinding_als_het_vierkant_draait.mov"
+        }
+      ,
+        {
+        "title": "Filmpje 2",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/BuWa_Academie/5_Modellen_en_Concepten/Feedback/Frederik_Imbo-Hoe_omgaan_met_kritiek_of_negatieve_feedback.mov"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Persoonlijk leiderschap",
+      "resource_id": "86e2-22c2-7e4b",
+      "description": "Stephen Covey beschrijft de zeven gewoontes van effectief, persoonlijk leiderschap. Interessant voor iedereen die aan zichzelf wil werken. \nHier vind je de achtergronden.\nContactpersoon: Rob van Dijck",
+      "search" : "persoonlijk leiderschap stephen covey beschrijft de zeven gewoontes van effectief, persoonlijk leiderschap. interessant voor iedereen die aan zichzelf wil werken. \nhier vind je de achtergronden.\ncontactpersoon: rob van dijck",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "De 7 eigenschappen",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/BuWa_Academie/5_Modellen_en_Concepten/Persoonlijk_Leiderschap/Effectief_Leiderschap_Stephen_Covey.jpg"
+        }
+      ,
+        {
+        "title": "Je innerlijke stem",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/BuWa_Academie/5_Modellen_en_Concepten/Persoonlijk_Leiderschap/Van_Effectiviteit_Naar_Inspiratie_Stephen_Covey.jpg"
+        }
+      ,
+        {
+        "title": "Mail Rob",
+        "url": "mailto:r.van.dijck@waardenburg.eco"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Situationeel leiderschap",
+      "resource_id": "8732-e2b5-58e9",
+      "description": "Effectieve team-/projectleiders passen de mate van sturing en ondersteuning aan op de kennis en ervaring van medewerkers bij de taken die gedaan moeten worden. \nJe kan het concept ook op jezelf toepassen: situationeel zelfleiderschap. Hoeveel sturing en ondersteuning heb jij zelf nodig bij een klus?\nContactpersoon: Rob van Dijck",
+      "search" : "situationeel leiderschap effectieve team-/projectleiders passen de mate van sturing en ondersteuning aan op de kennis en ervaring van medewerkers bij de taken die gedaan moeten worden. \nje kan het concept ook op jezelf toepassen: situationeel zelfleiderschap. hoeveel sturing en ondersteuning heb jij zelf nodig bij een klus?\ncontactpersoon: rob van dijck",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "PowerPointpresentatie",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/BuWa_Academie/5_Modellen_en_Concepten/Situationeel_Leiderschap/SL-Situationeel_Leiderschap.pptx"
+        }
+      ,
+        {
+        "title": "pdf Zelfleiderschap",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/BuWa_Academie/5_Modellen_en_Concepten/Situationeel_Leiderschap/SZL-Situationeel_ZelfLeiderschap.pdf"
+        }
+      ,
+        {
+        "title": "mail Rob",
+        "url": "mailto:r.van.dijck@waardenburg.eco"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Groeimindset",
+      "resource_id": "8da0-024b-0846",
+      "description": "Nieuwe dingen leren, uitdagingen aangaan, openstaan voor feedback maakt het leven prettiger. Creëer een groeimindset.",
+      "search" : "groeimindset nieuwe dingen leren, uitdagingen aangaan, openstaan voor feedback maakt het leven prettiger. creëer een groeimindset.",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Presentatie",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/BuWa_Academie/5_Modellen_en_Concepten/Groeimindset/Een_groeimindset_maakt_het_leven_fijner.pptx"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Getting Things Done (time management)",
+      "resource_id": "6594-18f0-8da8",
+      "description": "Persoonlijke productiviteit verkrijgen door het verzamelen van taken, ze te verhelderen, te organiseren, te kiezen en te doen.\nDe kunst van stressvrije productiviteit, door David Allen.\n",
+      "search" : "getting things done (time management) persoonlijke productiviteit verkrijgen door het verzamelen van taken, ze te verhelderen, te organiseren, te kiezen en te doen.\nde kunst van stressvrije productiviteit, door david allen.\n",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Uitleg",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/BuWa_Academie/5_Modellen_en_Concepten/GTD_Getting_Things_Done/GTD - Getting Things Done (in ontwikkeling).pptx"
+        }
+      ,
+        {
+        "title": "Workflow",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/BuWa_Academie/5_Modellen_en_Concepten/GTD_Getting_Things_Done/GTD_Workflow_Map.pdf"
+        }
+      ,
+        {
+        "title": "Artkel NRC",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/BuWa_Academie/5_Modellen_en_Concepten/GTD_Getting_Things_Done/NRC_Handelsblad_20170621.pdf"
+        }
+      
+      ]
+      }
+    ,
+      {
+      "title": "Helder en Duidelijk schrijven",
+      "resource_id": "3cb4-6b93-0a4b",
+      "description": "Achtergronden en ideeën rond het schrijven binnen Waardenburg Ecology. Van helder en duidelijk naar compact en soepel schrijven. Taal als middel om iets voor elkaar te krijgen of te veranderen.\n*Informatie over schrijfcursussen van communicatiebureau Helder en Duidelijk volgt*\nContactpersoon: Rob van Dijck",
+      "search" : "helder en duidelijk schrijven achtergronden en ideeën rond het schrijven binnen waardenburg ecology. van helder en duidelijk naar compact en soepel schrijven. taal als middel om iets voor elkaar te krijgen of te veranderen.\n*informatie over schrijfcursussen van communicatiebureau helder en duidelijk volgt*\ncontactpersoon: rob van dijck",
+      "primary_action": "<no value>",
+      "image": "<no value>",
+      "actions" : [
+      
+        {
+        "title": "Schrijftips",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/BuWa_Academie/3-Leergangen/1-Kennis_van_vakgebied_of_werkproces/Schrijven/schrijftips"
+        }
+      ,
+        {
+        "title": "Inhoud workshop schrijven",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/BuWa_Academie/3-Leergangen/1-Kennis_van_vakgebied_of_werkproces/Schrijven/Toolbox_Helder_en_Duidelijk_Schrijven_PresentatieBuWa.pdf"
+        }
+      ,
+        {
+        "title": "Broodje BuWa door Helder en Duidelijk",
+        "url": "smb://buwadata02.buwa.nl/Buwa-algemeen/BW-Data/Personeel_en_Organisatie_Ontwikkeling/BuWa_Academie/3-Leergangen/1-Kennis_van_vakgebied_of_werkproces/Schrijven/2022.07.12_Broodje_BUWA_Helder_en_duidelijk_communiceren.mp4"
+        }
+      
+      ]
+      }
+    
+    ]
+}
+  ],
+"resources": [
+ 
+{
+"resource_id": "e997-1ec3-417f"
+},
+{
+"resource_id": "abab-703d-156b"
+},
+{
+"resource_id": "ed54-ea84-0d48"
+},
+{
+"resource_id": "a0f1-ee2e-f523"
+},
+{
+"resource_id": "3018-48c3-034c"
+}
+ , 
+{
+"resource_id": "0b0b-02ff-5ffe"
+},
+{
+"resource_id": "8057-a399-4f3d"
+},
+{
+"resource_id": "a8ef-4068-5115"
+},
+{
+"resource_id": "4bc3-f269-29f6"
+}
+ , 
+{
+"resource_id": "406e-17f2-806b"
+},
+{
+"resource_id": "f058-abfd-a2d1"
+},
+{
+"resource_id": "6c4b-0bb7-4cde"
+},
+{
+"resource_id": "e456-878b-abea"
+},
+{
+"resource_id": "a1df-33b6-edb5"
+},
+{
+"resource_id": "c276-634c-ce30"
+}
+ , 
+{
+"resource_id": "59a6-f350-9e67"
+},
+{
+"resource_id": "1fe3-d186-b203"
+},
+{
+"resource_id": "a947-46e5-f413"
+},
+{
+"resource_id": "6c15-1e50-9dd6"
+},
+{
+"resource_id": "9cdb-bac8-ac75"
+}
+ , 
+{
+"resource_id": "5914-fe1d-7ea9"
+},
+{
+"resource_id": "901c-3507-77e6"
+},
+{
+"resource_id": "2d84-1376-5eff"
+}
+ , 
+{
+"resource_id": "c704-afa0-636b"
+},
+{
+"resource_id": "22d6-841f-806d"
+},
+{
+"resource_id": "40ff-61a8-2469"
+},
+{
+"resource_id": "d61e-3866-2abe"
+}
+ , 
+{
+"resource_id": "d8e2-b1f3-86ce"
+},
+{
+"resource_id": "788e-2a69-a65b"
+},
+{
+"resource_id": "0430-ec51-aa90"
+},
+{
+"resource_id": "56af-918d-423e"
+},
+{
+"resource_id": "1706-479e-09de"
+},
+{
+"resource_id": "8add-1fdc-bf26"
+},
+{
+"resource_id": "5bf0-7b62-b030"
+}
+ , 
+{
+"resource_id": "bc49-a8ea-e42a"
+}
+ , 
+{
+"resource_id": "3591-7f90-c015"
+},
+{
+"resource_id": "ed5d-c77e-7bba"
+},
+{
+"resource_id": "f46a-58c7-1b6e"
+},
+{
+"resource_id": "5de8-2453-3ec7"
+}
+ , 
+{
+"resource_id": "d635-5ca5-e451"
+},
+{
+"resource_id": "6f62-5648-d3d7"
+},
+{
+"resource_id": "1ada-8d7d-9493"
+},
+{
+"resource_id": "f5a6-0e88-f237"
+},
+{
+"resource_id": "5915-9009-1541"
+},
+{
+"resource_id": "0d1e-0cbc-4861"
+},
+{
+"resource_id": "9cc8-a0c9-39c3"
+},
+{
+"resource_id": "74e2-ccc8-a313"
+},
+{
+"resource_id": "72c1-3177-5e90"
+},
+{
+"resource_id": "dd6a-850e-220a"
+},
+{
+"resource_id": "15b5-6aa7-9b05"
+}
+ , 
+{
+"resource_id": "8d57-2f7c-43d6"
+},
+{
+"resource_id": "e3c8-7691-f8a7"
+},
+{
+"resource_id": "dd70-0a9d-537e"
+},
+{
+"resource_id": "b93e-65ba-2202"
+},
+{
+"resource_id": "a8e3-ab15-e2c3"
+},
+{
+"resource_id": "2732-d8bc-a219"
+},
+{
+"resource_id": "746c-27da-8004"
+}
+ , 
+{
+"resource_id": "4fcb-46bb-7e26"
+},
+{
+"resource_id": "adff-000a-9125"
+}
+ , 
+{
+"resource_id": "37d4-fe59-ed05"
+},
+{
+"resource_id": "4f8c-dfff-517e"
+},
+{
+"resource_id": "249d-3d87-d8f2"
+}
+ , 
+{
+"resource_id": "ccd8-1091-b5d3"
+},
+{
+"resource_id": "073b-6b44-4e32"
+},
+{
+"resource_id": "5ce1-b8d0-a32b"
+},
+{
+"resource_id": "178a-49aa-92d7"
+},
+{
+"resource_id": "ef17-56c9-77ed"
+},
+{
+"resource_id": "660a-e8ba-d370"
+},
+{
+"resource_id": "5bdf-abad-fa3b"
+}
+ , 
+{
+"resource_id": "8d3a-35fb-4917"
+},
+{
+"resource_id": "3004-f2fa-43f2"
+},
+{
+"resource_id": "17e4-7b41-1985"
+}
+ , 
+{
+"resource_id": "74be-05ed-11eb"
+},
+{
+"resource_id": "eb63-8752-cdea"
+},
+{
+"resource_id": "7f8e-4264-5a84"
+},
+{
+"resource_id": "7494-7d4c-ce59"
+},
+{
+"resource_id": "72df-8b57-03c3"
+},
+{
+"resource_id": "b603-3203-3699"
+},
+{
+"resource_id": "00ae-8498-2dc8"
+},
+{
+"resource_id": "b3f9-10d1-7505"
+},
+{
+"resource_id": "c5e5-2fdd-c804"
+},
+{
+"resource_id": "7439-1c41-875d"
+},
+{
+"resource_id": "2156-5bcb-bfe4"
+},
+{
+"resource_id": "ee4f-6c1d-e5c0"
+},
+{
+"resource_id": "6768-8809-5572"
+}
+ , 
+{
+"resource_id": "88f5-dce3-84e4"
+},
+{
+"resource_id": "cae4-f88c-53a4"
+},
+{
+"resource_id": "cbb5-17c8-0c29"
+},
+{
+"resource_id": "4122-7303-d7c3"
+},
+{
+"resource_id": "a54f-ce1c-e703"
+},
+{
+"resource_id": "0f09-b74a-f136"
+},
+{
+"resource_id": "042c-70d8-d18c"
+}
+ , 
+{
+"resource_id": "66cb-89c4-5d82"
+},
+{
+"resource_id": "5d5c-8ed8-0173"
+},
+{
+"resource_id": "ba71-5806-ee7d"
+},
+{
+"resource_id": "4eda-e859-2b1c"
+},
+{
+"resource_id": "33b5-2921-4c79"
+},
+{
+"resource_id": "bc7f-0044-f937"
+},
+{
+"resource_id": "b5ff-0176-9a63"
+},
+{
+"resource_id": "600c-0af3-4ba0"
+},
+{
+"resource_id": "445e-e69b-c113"
+}
+ , 
+ , 
+{
+"resource_id": "90c5-f66a-a329"
+},
+{
+"resource_id": "7375-63aa-0da9"
+},
+{
+"resource_id": "033c-7902-e9c5"
+},
+{
+"resource_id": "6e6d-c7f5-23c6"
+},
+{
+"resource_id": "0def-a026-0a8f"
+}
+ , 
+{
+"resource_id": "aecc-ffbd-8abf"
+},
+{
+"resource_id": "08fc-28d6-b3b5"
+}
+ , 
+ , 
+{
+"resource_id": "d835-700e-85b6"
+}
+ , 
+{
+"resource_id": "a869-9902-b08a"
+},
+{
+"resource_id": "102d-d371-7a37"
+},
+{
+"resource_id": "d33f-c4e4-8f68"
+},
+{
+"resource_id": "f1c1-1e42-b930"
+},
+{
+"resource_id": "bac1-24f3-1f9e"
+},
+{
+"resource_id": "8ba3-0bb3-7962"
+},
+{
+"resource_id": "5df0-f19b-07c0"
+},
+{
+"resource_id": "b1a9-ad0e-0247"
+}
+ , 
+{
+"resource_id": "82e4-04d2-e653"
+},
+{
+"resource_id": "ec85-508f-c628"
+},
+{
+"resource_id": "303e-7ff0-27c7"
+},
+{
+"resource_id": "9307-78bb-a6b1"
+},
+{
+"resource_id": "bfae-a81c-9119"
+},
+{
+"resource_id": "2518-f577-084c"
+},
+{
+"resource_id": "82c3-a60e-1717"
+},
+{
+"resource_id": "2ca0-3e7e-de0a"
+},
+{
+"resource_id": "8ff4-477e-9bb8"
+}
+ , 
+{
+"resource_id": "879e-5962-56c1"
+}
+ , 
+{
+"resource_id": "ad53-b419-83d4"
+},
+{
+"resource_id": "eb2e-24cf-c112"
+},
+{
+"resource_id": "cd1e-e62e-a100"
+},
+{
+"resource_id": "b238-f53a-fe98"
+},
+{
+"resource_id": "c53c-2874-8311"
+},
+{
+"resource_id": "1870-da74-0c33"
+},
+{
+"resource_id": "7ab9-cf70-b026"
+}
+ , 
+{
+"resource_id": "6d37-d01e-fcb8"
+},
+{
+"resource_id": "bdec-c35b-395f"
+},
+{
+"resource_id": "7599-e5a1-b3fa"
+},
+{
+"resource_id": "0c63-91dd-c09a"
+},
+{
+"resource_id": "86e2-22c2-7e4b"
+},
+{
+"resource_id": "8732-e2b5-58e9"
+},
+{
+"resource_id": "8da0-024b-0846"
+},
+{
+"resource_id": "6594-18f0-8da8"
+},
+{
+"resource_id": "3cb4-6b93-0a4b"
+}
+ 
+] 
+}
+

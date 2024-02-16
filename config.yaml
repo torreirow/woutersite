@@ -1,0 +1,33 @@
+baseUrl: https://start.technative.eu/
+languageCode: en
+title: Toolbox
+theme: company-toolbox
+disableKinds:
+  - taxonomyTerm
+  - taxonomy
+  - sitemap
+  - RSS
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+outputs:
+  home:
+    - html
+  section:
+    - json
+  page:
+    - json
+    - html
+logo: logo-waardenburg.png
+params:
+  logo: logotn.png
+  resources: []
+  home_bg_image: taylor-van-riper-yQorCngxzwI-unsplash.jpg
+  logo_width: 202
+  rewriteRules: []
+  use_font_icons: true
+  icon_color: '#FF950B'
+use_font_icons: true
+search:
+  other: Search

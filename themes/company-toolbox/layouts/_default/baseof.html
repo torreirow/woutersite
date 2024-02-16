@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang=en>
+
+<head>
+<title>{{ .Title }}</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/brands.min.css" integrity="sha512-9YHSK59/rjvhtDcY/b+4rdnl0V4LPDWdkKceBl8ZLF5TB6745ml1AfluEU6dFWqwDw9lPvnauxFgpKvJqp7jiQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+<style>
+.Logo {
+  background-image: url(/images/{{.Site.Params.logo}});
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+html {
+    height: 100%;
+}
+
+body{
+  background-image: linear-gradient(to bottom, rgba(255,255,255, 0.7) 0 100%), url(/images/{{.Site.Params.home_bg_image}});
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100%;
+}
+
+</style>
+
+<meta charset="utf-8" />
+<link rel="shortcut icon" href="/favicon.png">
+
+<script>
+  var appCnf = {};
+  appCnf.logoWidth = "{{ .Site.Params.logo_width }}";
+  appCnf.title = "{{ .Site.Title }}";
+  appCnf.rewriteRules = [];
+  appCnf.defaultContentLanguage = "{{ .Site.LanguageCode }}";
+
+{{ range .Site.Params.rewriteRules }}
+  var rule = {};
+
+  rule.regex = "{{ .regex }}";
+  rule.replace = "{{ .replace }}";
+  rule.condition = "{{ .agent_condition }}";
+
+  appCnf.rewriteRules.push(rule);
+
+{{ end }}
+
+
+</script>
+
+{{ $assetPage := "tpl_category.jsx" }}
+{{ if .IsHome }}
+  {{ $assetPage = "tpl_home.jsx" }}
+  <script>const dataLink = "{{ .Permalink }}category/index.json"</script>
+{{else}}
+  <script>const dataLink = "{{ .Permalink }}index.json"</script>
+{{ end }}
+
+{{ with resources.Get $assetPage }}
+  {{ $options := dict "defines" (dict "process.env.NODE_ENV" "\"production\"" "process.env.BaseURL" (printf `"%s"` $.Site.BaseURL)) }}
+  {{ $script := . | js.Build $options }}
+  <script src="{{ $script.RelPermalink }}" defer></script>
+{{ end }}
+
+
+</head>
+
+<body>
+<div id="root"></div>
+{{- block "main" . }}{{- end }}
+</body>
+</html>

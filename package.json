@@ -1,0 +1,18 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@fontsource/roboto": "^4.5.8",
+    "@mui/icons-material": "^5.10.9",
+    "@mui/material": "^5.10.10",
+    "i18next": "^23.2.3",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-i18next": "^13.0.1"
+  },
+  "scripts": {
+    "_pre_diet": "grep icons-material -r ./themes | cut -d\":\" -f2 | sort| uniq | cut -d\" \" -f 2 | sed \"s/Icon//\" > diet_keepIcons.txt",
+    "diet": "npm run _pre_diet && node diet_node_modules.js"
+  }
+}

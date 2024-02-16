@@ -1,0 +1,38 @@
+fields:
+  - key: search
+    type: pull
+    fields:
+      - key: other
+        title: search
+        type: string
+  - key: home
+    type: pull
+    fields:
+      - key: other
+        title: home
+        type: string
+  - key: home
+    type: pull
+    fields:
+      - key: other
+        title: home
+        type: string
+  - key: all_cats
+    type: pull
+    fields:
+      - key: other
+        title: All Categories
+        type: string
+  - key: found_cats
+    type: pull
+    fields:
+      - key: other
+        title: "Found Categories with {{ .search }}"
+        type: string
+  - key: found_items
+    type: pull
+    fields:
+      - key: other
+        title: "Found Items with {{ .search }}"
+        type: string
+

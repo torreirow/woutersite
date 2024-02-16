@@ -1,0 +1,24 @@
+{{ $contextSite := .contextSite }}
+
+{{ range $index, $e := .context.Params.resource_links }}{{ if $index }},{{ end }}
+
+{{ $resource := $contextSite.GetPage (printf "/resources/%s" .resource_ref) }}
+
+"{{$resource.Params.resource_id}}": {
+      "xtitle": "{{ $contextSite.Title}}",
+      "title": "{{$resource.Params.title}}",
+      "resource_id": "{{$resource.Params.resource_id}}",
+      "description": "{{replace (replace $resource.Params.description "\n" "\\n") "\t" " " }}",
+      "search" : "{{ lower $resource.Params.title }} {{ replace (replace (lower $resource.Params.description) "\n" "\\n") "\t" " " }}",
+      "primary_action": "{{$resource.Params.primary_action}}",
+      "image": "{{$resource.Params.image}}",
+      "actions" : [
+      {{ range $index, $e := $resource.Params.actions }}{{ if $index }},{{ end }}
+        {
+        "title": "{{.title}}",
+        "url": "{{.url}}"
+        }
+      {{ end }}
+      ]
+}
+{{ end }}
