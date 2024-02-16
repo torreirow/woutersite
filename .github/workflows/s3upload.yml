@@ -20,11 +20,11 @@ jobs:
       - name: Build
         run: hugo --minify --baseURL https://wouter.toorren.net/
 
-      - name: Deploy to Other Repository
-        uses: actions/checkout@v2
-        with:
-          repository: TorreiroW/woutersite-live # Vervang dit door de naam van de andere repository
-          token: ${{ secrets.WEBSITE_SYNC_PAT}}
+      # - name: Deploy to Other Repository
+      #   uses: actions/checkout@v2
+      #   with:
+      #     repository: TorreiroW/woutersite-live # Vervang dit door de naam van de andere repository
+      #     token: ${{ secrets.WEBSITE_SYNC_PAT}}
 
       - name: Commit and push changes
         run: |
@@ -33,6 +33,6 @@ jobs:
           ls -latr
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git add .
-          git commit -m "Deploy Hugo Build Output"
-          git push
+          # git add .
+          # git commit -m "Deploy Hugo Build Output"
+          # git push
