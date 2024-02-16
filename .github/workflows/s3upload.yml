@@ -19,7 +19,7 @@ jobs:
 
       - name: Build
         run: |
-          hugo --minify --baseURL https://wouter.toorren.net/
+          hugo --minify --baseURL https://torreirow.netlify.app/
           mv public $HOME/public  # Verplaats de gebouwde Hugo-site naar een tijdelijke locatie
 
       - name: Deploy to Other Repository
