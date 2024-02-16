@@ -31,7 +31,6 @@ jobs:
       - name: Copy Built Site
         run: |
           cp -r $HOME/public/* . # Kopieer de gebouwde site naar de andere repository
-          cd other_repo
           git add .
           git commit -m "Deploy Hugo Build Output"
           git push
