@@ -1,6 +1,6 @@
-baseUrl: https://start.technative.eu/
+baseUrl: https://torreirow.netlify.app
 languageCode: en
-title: Toolbox
+title: Startpage
 theme: company-toolbox
 disableKinds:
   - taxonomyTerm
