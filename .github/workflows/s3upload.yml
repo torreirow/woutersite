@@ -22,15 +22,15 @@ jobs:
           hugo --minify --baseURL https://wouter.toorren.net/
           mv public $HOME/public  # Verplaats de gebouwde Hugo-site naar een tijdelijke locatie
 
-      # - name: Deploy to Other Repository
-      #   uses: actions/checkout@v2
-      #   with:
-      #     repository: TorreiroW/woutersite-live # Vervang dit door de naam van de andere repository
-      #     token: ${{ secrets.WEBSITE_SYNC_PAT}}
+      - name: Deploy to Other Repository
+        uses: actions/checkout@v2
+        with:
+          repository: TorreiroW/woutersite-live # Vervang dit door de naam van de andere repository
+          token: ${{ secrets.WEBSITE_SYNC_PAT}}
 
       - name: Copy Built Site
         run: |
-          cp -r $HOME/public/* other_repo/  # Kopieer de gebouwde site naar de andere repository
+          cp -r $HOME/public/* . # Kopieer de gebouwde site naar de andere repository
           cd other_repo
           git add .
           git commit -m "Deploy Hugo Build Output"
