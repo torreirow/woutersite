@@ -1,5 +1,5 @@
 ---
-title: How to schedule an AWS exam
+title: How to schedule an AWS exams
 description: Manual with tips and tricks to schedule an AWS exam
 keywords:
   - AWS
@@ -11,6 +11,8 @@ actions:
     url: /downloads/How%20to%20schedule%20an%20AWS%20exam.pdf
 
 ---
+
+
 
 
 
