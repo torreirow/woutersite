@@ -23,8 +23,8 @@ jobs:
       - name: Deploy to Other Repository
         uses: actions/checkout@v2
         with:
-          repository: gebruikersnaam/andere-repo # Vervang dit door de naam van de andere repository
-          token: ${{ secrets.GITHUB_TOKEN }}
+          repository: TorreiroW/woutersite-live # Vervang dit door de naam van de andere repository
+          token: ${{ secrets.WEBSITE_SYNC_PAT}}
 
       - name: Commit and push changes
         run: |
