@@ -1,6 +1,6 @@
 baseUrl: https://torreirow.netlify.app
 languageCode: en
-title: Startpage
+title: Wouter Site
 theme: company-toolbox
 disableKinds:
   - taxonomyTerm

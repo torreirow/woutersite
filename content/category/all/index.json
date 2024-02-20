@@ -1,0 +1,224 @@
+{
+  
+"data": 
+{
+    "title": "All",
+    "type": "category",
+    "permalink" : "https://wouter.toorren.net/category/all/index.json",
+    "rel_permalink" : "/category/all/index.json",
+    "description" : "All resources, this is a dev. category",
+    "search" : "all all resources, this is a dev. category",
+    "image" : "Vormgeving2.png",
+    "resources" : [
+    
+
+    
+      {
+      "title": "Exact Online",
+      "resource_id": "26db-0523-cfb1",
+      "description": "- Time tracking\n- Projects\n- Invoices",
+      "search" : "exact online - time tracking\n- projects\n- invoices",
+      "primary_action": "<no value>",
+      "image": "exact-logo-red.svg",
+      "actions" : [
+      
+        {
+        "title": "Open Exact Online",
+        "url": "https://start.exactonline.nl"
+        }
+      ,
+        {
+        "title": "Exact Handleiding",
+        "url": "/downloads/Handleiding Exact-1.pdf"
+        }
+      
+      ]
+      }
+    ,
+
+    
+      {
+      "title": "Jira",
+      "resource_id": "b685-3858-5990",
+      "description": "Projects with tickets",
+      "search" : "jira projects with tickets",
+      "primary_action": "<no value>",
+      "image": "JIRA-Logo.jpg",
+      "actions" : [
+      
+        {
+        "title": "open",
+        "url": "https://technative.atlassian.net/jira/"
+        }
+      
+      ]
+      }
+    ,
+
+    
+      {
+      "title": "Tentoo",
+      "resource_id": "e997-1ec3-417f",
+      "description": "- verlof aanvragen\n- declaraties\n- loonstroken",
+      "search" : "tentoo - verlof aanvragen\n- declaraties\n- loonstroken",
+      "primary_action": "<no value>",
+      "image": "Screenshot from 2023-03-13 19-20-47.png",
+      "actions" : [
+      
+        {
+        "title": "Open Tentoo",
+        "url": "https://tentoo.nmbrs.nl"
+        }
+      
+      ]
+      }
+    ,
+
+    
+      {
+      "title": "TechNative's LinkedIn",
+      "resource_id": "02c9-7d2a-025b",
+      "description": "",
+      "search" : "technative's linkedin ",
+      "primary_action": "<no value>",
+      "image": "linkedIn_PNG15.png",
+      "actions" : [
+      
+        {
+        "title": "open LinkedIn",
+        "url": "https://www.linkedin.com/company/technative-bv/"
+        }
+      
+      ]
+      }
+    ,
+
+    
+      {
+      "title": "TechNative in the media",
+      "resource_id": "e881-8af0-8ec7",
+      "description": "Op deze pagina op onze website laten we zien in welke we genoemd worden (wetenschappelijke artikelen, televisie-uitzendingen, krantenartikel etc). \n\nHeb je een tip? Mail Bas (link hieronder)",
+      "search" : "technative in the media op deze pagina op onze website laten we zien in welke we genoemd worden (wetenschappelijke artikelen, televisie-uitzendingen, krantenartikel etc). \n\nheb je een tip? mail bas (link hieronder)",
+      "primary_action": "<no value>",
+      "image": "052.jpg",
+      "actions" : [
+      
+        {
+        "title": "Tip Bas",
+        "url": "mailto: bas@technative.eu"
+        }
+      
+      ]
+      }
+    ,
+
+    
+      {
+      "title": "TechNative on Twitter",
+      "resource_id": "8dc6-f452-0588",
+      "description": "",
+      "search" : "technative on twitter ",
+      "primary_action": "<no value>",
+      "image": "twitter-logo1-e1602443184297.jpg",
+      "actions" : [
+      
+        {
+        "title": "open Twitter",
+        "url": "https://twitter.com/TechnativeBV"
+        }
+      
+      ]
+      }
+    ,
+
+    
+      {
+      "title": "Outlook Mail & Calendar",
+      "resource_id": "e821-5548-571d",
+      "description": "",
+      "search" : "outlook mail & calendar ",
+      "primary_action": "<no value>",
+      "image": "outlook.jpg",
+      "actions" : [
+      
+        {
+        "title": "open",
+        "url": "https://outlook.office.com"
+        }
+      
+      ]
+      }
+    ,
+
+    
+      {
+      "title": "Managed Services Handbook",
+      "resource_id": "06b0-48c0-1825",
+      "description": "",
+      "search" : "managed services handbook ",
+      "primary_action": "<no value>",
+      "image": "markdown-syntax-language.png",
+      "actions" : [
+      
+        {
+        "title": "open handbook",
+        "url": "https://docs-mcs.technative.eu/"
+        }
+      ,
+        {
+        "title": "handbook@github",
+        "url": "https://github.com/TechNative-B-V/technative-docs-managed-services-handbook"
+        }
+      
+      ]
+      }
+    ,
+
+    
+      {
+      "title": "github Wouter",
+      "resource_id": "58d8-53f4-6f28",
+      "description": "Github Wouter Organisation",
+      "search" : "github wouter github wouter organisation",
+      "primary_action": "<no value>",
+      "image": "github.jpg",
+      "actions" : [
+      
+        {
+        "title": "open",
+        "url": "https://github.com/wvandertoorren"
+        }
+      ,
+        {
+        "title": "list",
+        "url": "http://www.github.com"
+        }
+      
+      ]
+      }
+    ,
+
+    
+      {
+      "title": "AWS Partner Central",
+      "resource_id": "62be-162e-92cd",
+      "description": "",
+      "search" : "aws partner central ",
+      "primary_action": "<no value>",
+      "image": "Screenshot from 2023-04-11 17-11-31.png",
+      "actions" : [
+      
+        {
+        "title": "open",
+        "url": "https://partnercentral.awspartner.com/APNLogin"
+        }
+      
+      ]
+      }
+    
+    ]
+}
+
+
+}
+

@@ -1,0 +1,38 @@
+{
+  
+"data": 
+{
+    "title": "Stichting Witte Velden",
+    "type": "category",
+    "permalink" : "https://wouter.toorren.net/category/wittevelden/index.json",
+    "rel_permalink" : "/category/wittevelden/index.json",
+    "description" : "Stichting Witte Velden",
+    "search" : "stichting witte velden stichting witte velden",
+    "image" : "gebouw4.png",
+    "resources" : [
+    
+
+    
+      {
+      "title": "website_stichtingwittevelden",
+      "resource_id": "332d-9099-c378",
+      "description": "Website StWV",
+      "search" : "website_stichtingwittevelden website stwv",
+      "primary_action": "<no value>",
+      "image": "entering_mission_field.png",
+      "actions" : [
+      
+        {
+        "title": "Open",
+        "url": "https://www.stichtingwittevelden.nl"
+        }
+      
+      ]
+      }
+    
+    ]
+}
+
+
+}
+
