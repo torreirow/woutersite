@@ -23,7 +23,7 @@ logo: logo-waardenburg.png
 params:
   logo: logotn.png
   resources: []
-  home_bg_image: taylor-van-riper-yQorCngxzwI-unsplash.jpg
+  home_bg_image: woutersite_background.jpg
   logo_width: 202
   rewriteRules: []
   use_font_icons: true
