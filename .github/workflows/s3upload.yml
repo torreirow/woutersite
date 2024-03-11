@@ -22,10 +22,8 @@ jobs:
           hugo --minify --baseURL https://wouter.toorren.net/
           mv public $HOME/public  # Verplaats de gebouwde Hugo-site naar een tijdelijke locatie
           
-      - name: Add robotx.txt
-        run: |
-          echo "User-agent: *" > $HOME/public/robots.txt
-          echo "Disallow: / >> $HOME/public/robots.txt
+      - name: Add robots.txt
+        run: echo "User-agent: *\nDisallow: /" > $HOME/public/robots.txt
 
       - name: Deploy to Other Repository
         uses: actions/checkout@v2
