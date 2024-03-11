@@ -1,6 +1,6 @@
 ---
-title: ImrpoxMX
-description: ImproxMX mail forwarding
+title: ImrpovMX
+description: ImprovMX mail forwarding
 keywords: []
 image: improv_logo.jpg
 resource_id: f8c1-6bb8-5f77
@@ -9,6 +9,8 @@ actions:
     url: https://app.improvmx.com/
 
 ---
+
+
 
 
 
