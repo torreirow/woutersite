@@ -24,7 +24,8 @@ jobs:
           
       - name: Add robots.txt
         run: |
-          echo "User-agent: *\nDisallow: /" > $HOME/public/robots.txt
+          echo "User-agent: *" > $HOME/public/robots.txt
+          echo "Disallow: /">> $HOME/public/robots.txt
 
       - name: Deploy to Other Repository
         uses: actions/checkout@v2
