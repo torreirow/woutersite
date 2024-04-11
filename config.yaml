@@ -1,4 +1,4 @@
-baseUrl: https://torreirow.netlify.app
+baseUrl: https://wouter.toorren.net/
 languageCode: en
 title: Wouter Site
 theme: company-toolbox
@@ -31,3 +31,4 @@ params:
 use_font_icons: true
 search:
   other: Search
+resources: []
