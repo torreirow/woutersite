@@ -21,7 +21,7 @@ jobs:
 
       - name: Build
         run: |
-          hugo --minify
+          hugo --minify --baseURL https://wouterstart.toorren.net
 
       - name: sync
         env:
