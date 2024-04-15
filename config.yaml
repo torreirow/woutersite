@@ -27,7 +27,7 @@ params:
   logo_width: 202
   rewriteRules: []
   use_font_icons: true
-  icon_color: '#FF950B'
+  icon_color: '#008351'
 use_font_icons: true
 search:
   other: Search
