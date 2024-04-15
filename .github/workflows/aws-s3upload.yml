@@ -21,7 +21,6 @@ jobs:
 
       - name: Build
         run: |
-          cd documentation-data
           hugo --minify
 
       - name: sync
