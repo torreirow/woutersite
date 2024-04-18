@@ -15,8 +15,12 @@ resource_links:
     resource_ref: udemy_aws_solutions_architect_associate
   - resource_id: 0dfd-822a-8b8b
     resource_ref: udemy_aws_sysops_administrator_associate
+  - resource_id: 78a9-eaf2-be90
+    resource_ref: git_cheat_sheet
 
 ---
+
+
 
 
 
