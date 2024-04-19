@@ -9,8 +9,12 @@ resource_links:
     resource_ref: manual_boardgames
   - resource_id: 8be9-cf23-c0f9
     resource_ref: manual_lego
+  - resource_id: b159-8075-7ead
+    resource_ref: handleiding_smeg_oven
 
 ---
+
+
 
 
 

@@ -7,8 +7,12 @@ resource_links:
     resource_ref: git_cheat_sheet
   - resource_id: cb55-9dec-0734
     resource_ref: tmux_cheat_sheet
+  - resource_id: 14c9-289b-9bfa
+    resource_ref: vim_cheat_sheet
 
 ---
+
+
 
 
 
