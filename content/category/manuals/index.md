@@ -11,8 +11,12 @@ resource_links:
     resource_ref: manual_lego
   - resource_id: b159-8075-7ead
     resource_ref: handleiding_smeg_oven
+  - resource_id: c587-e183-5668
+    resource_ref: magnifica_s_handleiding
 
 ---
+
+
 
 
 
