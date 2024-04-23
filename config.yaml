@@ -21,7 +21,7 @@ outputs:
     - html
 logo: logo-waardenburg.png
 params:
-  logo: peperwouter.png
+  logo: torreirow_t_logo.png
   resources: []
   home_bg_image: woutersite_background.jpg
   logo_width: 202

@@ -1,6 +1,6 @@
 ---
 title: Work Learning
-description: ''
+description: Training/Courses Work Related
 fonticonpicker: FaEarlybirds
 resource_links:
   - resource_id: 6d2e-5559-50a1
@@ -9,6 +9,8 @@ resource_links:
     resource_ref: udemy_aws_sysops_administrator_associate
 
 ---
+
+
 
 
 

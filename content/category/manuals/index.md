@@ -1,6 +1,6 @@
 ---
 title: Manuals
-description: ''
+description: User Manuals
 fonticonpicker: FaBook
 resource_links:
   - resource_id: a08b-e074-76dd
@@ -13,8 +13,14 @@ resource_links:
     resource_ref: handleiding_smeg_oven
   - resource_id: c587-e183-5668
     resource_ref: magnifica_s_handleiding
+  - resource_id: fbba-af62-21dc
+    resource_ref: atag_cv_ketel_handleiding
 
 ---
+
+
+
+
 
 
 

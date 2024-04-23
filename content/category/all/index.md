@@ -45,8 +45,12 @@ resource_links:
     resource_ref: udemy_aws_solutions_architect_associate
   - resource_id: 5529-66c2-a133
     resource_ref: udemy_aws_sysops_administrator_associate
+  - resource_id: 675f-93f5-0b8f
+    resource_ref: sourdough_framework
 
 ---
+
+
 
 
 
