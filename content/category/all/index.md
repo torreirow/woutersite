@@ -47,8 +47,12 @@ resource_links:
     resource_ref: udemy_aws_sysops_administrator_associate
   - resource_id: 675f-93f5-0b8f
     resource_ref: sourdough_framework
+  - resource_id: 175c-aea2-32fe
+    resource_ref: intomission
 
 ---
+
+
 
 
 
