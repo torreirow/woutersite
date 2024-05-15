@@ -17,8 +17,12 @@ resource_links:
     resource_ref: atag_cv_ketel_handleiding
   - resource_id: 7e3b-d3cb-0e20
     resource_ref: lutec_pepper_lamp_handleiding
+  - resource_id: 36a8-f795-f3db
+    resource_ref: braun_series_3
 
 ---
+
+
 
 
 
