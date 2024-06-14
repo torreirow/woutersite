@@ -7,8 +7,12 @@ resource_links:
     resource_ref: udemy_aws_solutions_architect_associate
   - resource_id: f9b2-ffca-343f
     resource_ref: udemy_aws_sysops_administrator_associate
+  - resource_id: dd5e-e7ac-0ee9
+    resource_ref: tutorial_dojo
 
 ---
+
+
 
 
 
