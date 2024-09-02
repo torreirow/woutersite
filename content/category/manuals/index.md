@@ -19,6 +19,8 @@ resource_links:
     resource_ref: lutec_pepper_lamp_handleiding
   - resource_id: 36a8-f795-f3db
     resource_ref: braun_series_3
+  - resource_id: e75a-7d65-1a79
+    resource_ref: handleiding_siemens_koelkast
 
 ---
 
