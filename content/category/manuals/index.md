@@ -13,6 +13,8 @@ resource_links:
     resource_ref: handleiding_smeg_oven
   - resource_id: c587-e183-5668
     resource_ref: magnifica_s_handleiding
+  - resource_id: 0c1b-83d7-8d76
+    resource_ref: handleiding_delonghi_ontkalken
   - resource_id: fbba-af62-21dc
     resource_ref: atag_cv_ketel_handleiding
   - resource_id: 7e3b-d3cb-0e20
