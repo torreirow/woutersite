@@ -9,6 +9,8 @@ resource_id: 0c1b-83d7-8d75
 actions:
   - title: Open
     url: /downloads/smeg-oven-handleiding.pdf
+  - title: Timer
+    url: /images/resources/smeg-timer.png
 
 ---
 
